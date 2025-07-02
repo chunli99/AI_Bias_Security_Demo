@@ -1,0 +1,2001 @@
+user_id,demographic_group,internet_access_quality,device_type,network_latency,device_age,software_update_frequency,access_requests_per_day,security_outcome
+user_1,Group A,High-Speed Home,Modern Personal,37,12,7,4,0
+user_2,Group A,High-Speed Home,Modern Personal,5,4,3,7,0
+user_3,Group A,Standard Home,Modern Personal,72,22,1,6,0
+user_4,Group B,Public Wi-Fi,Shared/Public,264,76,44,9,1
+user_5,Group B,Mobile Hotspot,Older Personal,117,48,17,4,1
+user_6,Group B,Public Wi-Fi,Shared/Public,298,87,50,6,1
+user_7,Group B,Mobile Hotspot,Shared/Public,153,62,30,5,1
+user_8,Group A,High-Speed Home,Modern Personal,52,19,12,7,0
+user_9,Group A,Standard Home,Older Personal,37,29,24,7,0
+user_10,Group A,High-Speed Home,Modern Personal,34,13,8,2,0
+user_11,Group A,High-Speed Home,Modern Personal,34,15,4,5,0
+user_12,Group B,Mobile Hotspot,Older Personal,154,33,16,3,1
+user_13,Group B,Public Wi-Fi,Older Personal,405,41,4,8,1
+user_14,Group A,Standard Home,Modern Personal,54,11,9,5,1
+user_15,Group A,High-Speed Home,Modern Personal,29,21,8,3,0
+user_16,Group A,Standard Home,Modern Personal,62,21,11,6,0
+user_17,Group A,Standard Home,Modern Personal,94,8,1,7,0
+user_18,Group B,Public Wi-Fi,Older Personal,297,39,20,8,1
+user_19,Group B,Mobile Hotspot,Older Personal,75,24,8,3,0
+user_20,Group B,Mobile Hotspot,Older Personal,156,63,30,9,1
+user_21,Group A,Standard Home,Modern Personal,82,13,7,3,0
+user_22,Group B,High-Speed Home,Older Personal,39,41,11,7,0
+user_23,Group A,High-Speed Home,Modern Personal,39,12,8,3,0
+user_24,Group B,Mobile Hotspot,Older Personal,138,55,16,3,1
+user_25,Group A,Standard Home,Modern Personal,67,5,6,2,0
+user_26,Group A,Standard Home,Modern Personal,29,22,1,10,0
+user_27,Group B,Mobile Hotspot,Older Personal,49,50,15,5,1
+user_28,Group B,Public Wi-Fi,Shared/Public,147,76,41,12,1
+user_29,Group B,Public Wi-Fi,Shared/Public,268,80,34,10,1
+user_30,Group A,High-Speed Home,Modern Personal,21,20,7,6,0
+user_31,Group A,Standard Home,Modern Personal,67,12,7,4,0
+user_32,Group B,Public Wi-Fi,Older Personal,233,48,19,7,1
+user_33,Group A,High-Speed Home,Modern Personal,37,12,1,3,0
+user_34,Group A,Standard Home,Modern Personal,69,19,4,3,0
+user_35,Group A,Standard Home,Modern Personal,60,16,9,1,0
+user_36,Group A,Public Wi-Fi,Modern Personal,222,16,8,2,0
+user_37,Group B,Public Wi-Fi,Shared/Public,392,60,50,5,1
+user_38,Group A,High-Speed Home,Modern Personal,24,17,11,5,0
+user_39,Group A,High-Speed Home,Modern Personal,30,1,5,2,0
+user_40,Group A,Standard Home,Modern Personal,90,23,2,6,0
+user_41,Group B,Mobile Hotspot,Older Personal,127,37,11,5,1
+user_42,Group A,Mobile Hotspot,Modern Personal,143,8,5,2,1
+user_43,Group A,High-Speed Home,Modern Personal,5,1,9,3,0
+user_44,Group A,High-Speed Home,Modern Personal,30,12,5,6,0
+user_45,Group A,Standard Home,Modern Personal,75,6,9,6,0
+user_46,Group B,Public Wi-Fi,Shared/Public,288,97,37,10,1
+user_47,Group B,Public Wi-Fi,Shared/Public,198,117,55,10,1
+user_48,Group A,Mobile Hotspot,Older Personal,139,70,11,2,1
+user_49,Group A,High-Speed Home,Modern Personal,44,11,6,2,0
+user_50,Group B,Public Wi-Fi,Modern Personal,115,14,4,4,1
+user_51,Group B,Public Wi-Fi,Older Personal,279,38,17,10,1
+user_52,Group B,Mobile Hotspot,Shared/Public,104,88,73,4,1
+user_53,Group A,High-Speed Home,Modern Personal,5,20,11,8,0
+user_54,Group A,Standard Home,Older Personal,75,47,20,5,0
+user_55,Group A,Standard Home,Modern Personal,66,9,2,3,0
+user_56,Group B,Public Wi-Fi,Older Personal,211,53,28,4,1
+user_57,Group A,High-Speed Home,Modern Personal,38,20,3,4,0
+user_58,Group A,Standard Home,Shared/Public,75,83,63,3,1
+user_59,Group B,Public Wi-Fi,Shared/Public,108,87,51,5,1
+user_60,Group A,Mobile Hotspot,Modern Personal,242,11,8,3,1
+user_61,Group A,High-Speed Home,Modern Personal,21,18,3,2,0
+user_62,Group B,Public Wi-Fi,Shared/Public,144,87,35,4,1
+user_63,Group A,High-Speed Home,Shared/Public,40,83,65,3,1
+user_64,Group A,Standard Home,Older Personal,83,39,17,5,0
+user_65,Group B,Mobile Hotspot,Older Personal,207,39,24,4,0
+user_66,Group A,High-Speed Home,Modern Personal,26,19,7,3,0
+user_67,Group B,High-Speed Home,Older Personal,38,47,29,6,0
+user_68,Group A,High-Speed Home,Modern Personal,26,2,6,4,0
+user_69,Group A,High-Speed Home,Older Personal,12,38,18,5,0
+user_70,Group A,High-Speed Home,Older Personal,30,30,21,5,0
+user_71,Group A,Public Wi-Fi,Modern Personal,291,11,5,4,1
+user_72,Group A,High-Speed Home,Modern Personal,26,10,8,9,0
+user_73,Group A,Public Wi-Fi,Older Personal,243,71,12,2,1
+user_74,Group B,Standard Home,Older Personal,44,49,31,6,1
+user_75,Group A,Standard Home,Modern Personal,52,14,4,5,0
+user_76,Group A,Standard Home,Modern Personal,67,9,8,3,0
+user_77,Group A,Mobile Hotspot,Older Personal,133,64,20,5,0
+user_78,Group A,Mobile Hotspot,Older Personal,140,67,22,9,1
+user_79,Group A,Standard Home,Modern Personal,92,18,14,4,0
+user_80,Group A,High-Speed Home,Older Personal,9,35,20,17,1
+user_81,Group A,Standard Home,Modern Personal,53,7,7,5,0
+user_82,Group B,Mobile Hotspot,Shared/Public,104,82,46,10,1
+user_83,Group B,Mobile Hotspot,Older Personal,161,60,23,10,1
+user_84,Group A,High-Speed Home,Older Personal,18,51,6,3,1
+user_85,Group A,Standard Home,Modern Personal,82,2,9,4,0
+user_86,Group A,High-Speed Home,Modern Personal,27,7,6,5,0
+user_87,Group A,High-Speed Home,Modern Personal,17,18,10,5,0
+user_88,Group A,High-Speed Home,Modern Personal,41,1,9,5,0
+user_89,Group A,High-Speed Home,Older Personal,27,63,14,5,1
+user_90,Group A,High-Speed Home,Older Personal,26,28,12,4,0
+user_91,Group A,Standard Home,Modern Personal,66,9,4,2,0
+user_92,Group A,High-Speed Home,Modern Personal,18,10,6,10,1
+user_93,Group B,Mobile Hotspot,Shared/Public,171,112,51,10,1
+user_94,Group A,High-Speed Home,Older Personal,34,52,19,3,1
+user_95,Group A,Standard Home,Older Personal,91,31,21,6,0
+user_96,Group B,Mobile Hotspot,Shared/Public,104,73,47,3,1
+user_97,Group A,Standard Home,Modern Personal,79,14,7,7,0
+user_98,Group A,Mobile Hotspot,Modern Personal,111,1,3,7,0
+user_99,Group B,Mobile Hotspot,Older Personal,189,49,19,5,1
+user_100,Group A,Standard Home,Modern Personal,90,22,9,7,0
+user_101,Group A,Mobile Hotspot,Older Personal,23,26,21,4,0
+user_102,Group A,High-Speed Home,Modern Personal,37,1,7,3,0
+user_103,Group A,Public Wi-Fi,Older Personal,163,31,25,1,1
+user_104,Group B,Public Wi-Fi,Shared/Public,292,62,53,8,1
+user_105,Group B,Public Wi-Fi,Older Personal,225,48,27,8,1
+user_106,Group A,High-Speed Home,Modern Personal,32,20,5,6,0
+user_107,Group A,Standard Home,Modern Personal,66,6,7,6,0
+user_108,Group A,Standard Home,Modern Personal,61,12,5,7,0
+user_109,Group A,Standard Home,Modern Personal,70,8,7,5,0
+user_110,Group A,High-Speed Home,Modern Personal,9,21,13,6,0
+user_111,Group A,High-Speed Home,Modern Personal,18,1,7,8,0
+user_112,Group B,Public Wi-Fi,Shared/Public,398,103,32,6,1
+user_113,Group B,Public Wi-Fi,Older Personal,300,71,23,6,1
+user_114,Group A,High-Speed Home,Modern Personal,31,5,9,8,0
+user_115,Group A,High-Speed Home,Older Personal,54,71,13,1,1
+user_116,Group A,Standard Home,Modern Personal,72,9,1,3,0
+user_117,Group B,Public Wi-Fi,Older Personal,323,64,13,5,1
+user_118,Group A,Public Wi-Fi,Modern Personal,171,19,10,2,1
+user_119,Group A,Standard Home,Older Personal,36,33,22,4,1
+user_120,Group B,Public Wi-Fi,Older Personal,287,59,12,9,1
+user_121,Group B,Public Wi-Fi,Older Personal,204,51,22,9,1
+user_122,Group A,High-Speed Home,Modern Personal,29,2,8,3,0
+user_123,Group A,Standard Home,Older Personal,71,54,10,3,1
+user_124,Group A,High-Speed Home,Modern Personal,28,6,11,4,0
+user_125,Group A,High-Speed Home,Shared/Public,32,116,35,9,1
+user_126,Group B,Mobile Hotspot,Shared/Public,80,88,58,6,1
+user_127,Group A,High-Speed Home,Modern Personal,29,2,12,7,0
+user_128,Group B,Mobile Hotspot,Older Personal,124,40,28,9,1
+user_129,Group B,Public Wi-Fi,Older Personal,464,67,25,2,1
+user_130,Group A,Mobile Hotspot,Modern Personal,170,11,3,7,1
+user_131,Group A,Public Wi-Fi,Modern Personal,314,14,7,6,1
+user_132,Group A,Standard Home,Modern Personal,58,14,6,5,0
+user_133,Group A,Standard Home,Modern Personal,86,11,9,6,0
+user_134,Group A,High-Speed Home,Older Personal,34,67,31,5,1
+user_135,Group B,Public Wi-Fi,Shared/Public,239,82,41,6,1
+user_136,Group B,Public Wi-Fi,Older Personal,379,27,22,5,1
+user_137,Group A,High-Speed Home,Modern Personal,29,8,6,6,0
+user_138,Group A,Standard Home,Older Personal,65,46,12,2,0
+user_139,Group A,High-Speed Home,Older Personal,30,39,30,4,0
+user_140,Group A,High-Speed Home,Modern Personal,21,11,11,7,0
+user_141,Group A,Standard Home,Modern Personal,74,18,2,3,0
+user_142,Group A,High-Speed Home,Modern Personal,45,4,5,6,0
+user_143,Group A,Standard Home,Modern Personal,43,1,7,4,0
+user_144,Group A,Standard Home,Modern Personal,48,4,3,3,0
+user_145,Group B,Public Wi-Fi,Shared/Public,161,92,62,8,1
+user_146,Group A,High-Speed Home,Modern Personal,40,18,6,8,0
+user_147,Group A,High-Speed Home,Older Personal,28,46,23,8,0
+user_148,Group B,Mobile Hotspot,Older Personal,163,57,28,6,1
+user_149,Group A,High-Speed Home,Older Personal,25,47,32,6,0
+user_150,Group A,Standard Home,Modern Personal,42,13,7,7,0
+user_151,Group A,Standard Home,Shared/Public,116,86,41,1,0
+user_152,Group A,Standard Home,Modern Personal,64,9,8,7,0
+user_153,Group A,High-Speed Home,Modern Personal,23,6,9,2,0
+user_154,Group B,Public Wi-Fi,Older Personal,274,26,35,8,1
+user_155,Group A,Standard Home,Modern Personal,84,20,6,7,0
+user_156,Group A,High-Speed Home,Older Personal,34,45,20,6,0
+user_157,Group A,High-Speed Home,Modern Personal,13,22,2,5,0
+user_158,Group A,High-Speed Home,Modern Personal,29,6,7,7,0
+user_159,Group A,Standard Home,Modern Personal,66,4,6,8,0
+user_160,Group A,High-Speed Home,Modern Personal,35,12,12,1,0
+user_161,Group A,High-Speed Home,Older Personal,25,66,13,2,1
+user_162,Group B,Standard Home,Older Personal,81,66,15,11,1
+user_163,Group B,Mobile Hotspot,Shared/Public,193,113,54,8,1
+user_164,Group B,Public Wi-Fi,Shared/Public,302,65,65,6,1
+user_165,Group A,High-Speed Home,Modern Personal,15,20,5,7,0
+user_166,Group A,High-Speed Home,Modern Personal,26,18,8,6,1
+user_167,Group A,High-Speed Home,Modern Personal,39,1,7,5,0
+user_168,Group A,High-Speed Home,Modern Personal,45,2,9,3,0
+user_169,Group A,High-Speed Home,Modern Personal,9,22,4,4,0
+user_170,Group A,Public Wi-Fi,Modern Personal,232,1,7,7,1
+user_171,Group A,High-Speed Home,Modern Personal,28,18,4,5,0
+user_172,Group A,High-Speed Home,Modern Personal,20,6,6,3,0
+user_173,Group A,High-Speed Home,Older Personal,35,66,26,3,1
+user_174,Group A,High-Speed Home,Modern Personal,33,13,8,4,0
+user_175,Group B,Mobile Hotspot,Older Personal,175,56,16,10,0
+user_176,Group B,Public Wi-Fi,Modern Personal,240,17,1,5,1
+user_177,Group B,Mobile Hotspot,Shared/Public,167,82,34,4,1
+user_178,Group A,Standard Home,Modern Personal,81,17,10,5,0
+user_179,Group A,Standard Home,Modern Personal,63,5,4,8,0
+user_180,Group A,Standard Home,Shared/Public,83,102,19,5,1
+user_181,Group B,Public Wi-Fi,Shared/Public,122,108,46,7,1
+user_182,Group A,Standard Home,Shared/Public,82,73,58,4,1
+user_183,Group A,High-Speed Home,Modern Personal,25,6,5,4,1
+user_184,Group A,Standard Home,Older Personal,43,28,27,7,0
+user_185,Group B,Public Wi-Fi,Older Personal,137,25,25,12,0
+user_186,Group A,High-Speed Home,Modern Personal,46,4,6,3,0
+user_187,Group A,Standard Home,Modern Personal,57,1,4,5,0
+user_188,Group A,High-Speed Home,Older Personal,14,30,8,5,0
+user_189,Group B,Public Wi-Fi,Shared/Public,220,63,58,10,1
+user_190,Group B,Mobile Hotspot,Older Personal,83,55,19,7,1
+user_191,Group A,Mobile Hotspot,Modern Personal,234,22,2,2,1
+user_192,Group A,Mobile Hotspot,Modern Personal,122,20,3,8,1
+user_193,Group A,Mobile Hotspot,Older Personal,148,41,9,5,1
+user_194,Group A,High-Speed Home,Modern Personal,27,5,2,5,0
+user_195,Group A,High-Speed Home,Modern Personal,22,5,8,4,0
+user_196,Group A,High-Speed Home,Older Personal,19,25,31,5,1
+user_197,Group B,Mobile Hotspot,Older Personal,186,58,29,2,1
+user_198,Group A,Standard Home,Older Personal,88,49,6,5,1
+user_199,Group A,High-Speed Home,Older Personal,13,69,26,1,1
+user_200,Group A,High-Speed Home,Modern Personal,18,12,1,11,1
+user_201,Group B,Public Wi-Fi,Shared/Public,171,104,55,5,1
+user_202,Group B,Mobile Hotspot,Older Personal,41,60,24,7,1
+user_203,Group B,Public Wi-Fi,Shared/Public,212,116,64,8,1
+user_204,Group A,Standard Home,Modern Personal,63,13,9,6,0
+user_205,Group A,High-Speed Home,Modern Personal,42,5,11,7,0
+user_206,Group A,High-Speed Home,Older Personal,45,68,19,2,1
+user_207,Group A,High-Speed Home,Modern Personal,37,3,12,6,0
+user_208,Group A,High-Speed Home,Modern Personal,33,3,8,9,0
+user_209,Group A,High-Speed Home,Modern Personal,31,8,6,13,1
+user_210,Group A,High-Speed Home,Modern Personal,29,3,9,5,0
+user_211,Group A,Standard Home,Modern Personal,45,23,8,5,0
+user_212,Group A,High-Speed Home,Modern Personal,37,18,1,4,0
+user_213,Group A,Mobile Hotspot,Modern Personal,83,6,4,6,0
+user_214,Group A,High-Speed Home,Modern Personal,42,11,10,5,0
+user_215,Group A,High-Speed Home,Modern Personal,20,19,3,2,0
+user_216,Group B,Mobile Hotspot,Shared/Public,196,116,20,8,0
+user_217,Group A,High-Speed Home,Older Personal,44,59,21,6,1
+user_218,Group A,High-Speed Home,Modern Personal,36,11,7,3,0
+user_219,Group B,Public Wi-Fi,Older Personal,300,40,26,3,1
+user_220,Group B,Mobile Hotspot,Older Personal,120,71,9,5,1
+user_221,Group A,Standard Home,Modern Personal,64,22,4,6,0
+user_222,Group A,High-Speed Home,Modern Personal,31,14,5,6,0
+user_223,Group B,Public Wi-Fi,Shared/Public,151,119,50,4,1
+user_224,Group A,High-Speed Home,Modern Personal,29,17,11,6,0
+user_225,Group A,High-Speed Home,Modern Personal,26,19,8,7,0
+user_226,Group A,Mobile Hotspot,Older Personal,132,32,27,3,1
+user_227,Group A,High-Speed Home,Modern Personal,45,14,7,5,0
+user_228,Group A,High-Speed Home,Modern Personal,27,8,10,2,0
+user_229,Group A,High-Speed Home,Modern Personal,21,4,12,6,0
+user_230,Group A,Standard Home,Modern Personal,101,12,9,8,1
+user_231,Group B,Public Wi-Fi,Shared/Public,231,106,24,4,1
+user_232,Group A,High-Speed Home,Modern Personal,11,1,7,5,0
+user_233,Group B,Mobile Hotspot,Older Personal,168,68,25,9,1
+user_234,Group A,Standard Home,Modern Personal,94,21,5,6,0
+user_235,Group A,Standard Home,Modern Personal,33,11,3,4,0
+user_236,Group A,High-Speed Home,Modern Personal,22,6,9,10,0
+user_237,Group B,Mobile Hotspot,Older Personal,200,34,17,8,1
+user_238,Group A,High-Speed Home,Modern Personal,31,21,11,6,0
+user_239,Group A,High-Speed Home,Older Personal,35,25,24,3,0
+user_240,Group A,High-Speed Home,Modern Personal,28,8,10,6,0
+user_241,Group B,Standard Home,Older Personal,71,42,19,9,0
+user_242,Group A,Standard Home,Modern Personal,70,15,2,1,0
+user_243,Group A,Standard Home,Older Personal,87,34,16,3,0
+user_244,Group B,Mobile Hotspot,Shared/Public,87,100,25,8,1
+user_245,Group A,High-Speed Home,Modern Personal,33,1,1,3,0
+user_246,Group A,Public Wi-Fi,Modern Personal,287,3,8,7,1
+user_247,Group B,Public Wi-Fi,Older Personal,183,39,15,4,1
+user_248,Group B,Mobile Hotspot,Shared/Public,160,109,43,5,1
+user_249,Group A,Standard Home,Modern Personal,88,1,3,6,0
+user_250,Group B,Mobile Hotspot,Shared/Public,107,97,61,17,1
+user_251,Group B,Public Wi-Fi,Older Personal,142,53,24,5,1
+user_252,Group A,Standard Home,Modern Personal,73,22,8,6,0
+user_253,Group A,Mobile Hotspot,Modern Personal,188,12,5,2,1
+user_254,Group B,Public Wi-Fi,Shared/Public,266,104,51,6,1
+user_255,Group A,Standard Home,Older Personal,64,49,13,4,0
+user_256,Group A,High-Speed Home,Older Personal,36,42,11,6,0
+user_257,Group B,Standard Home,Shared/Public,85,88,47,10,1
+user_258,Group A,High-Speed Home,Modern Personal,15,10,9,3,0
+user_259,Group B,High-Speed Home,Shared/Public,19,74,27,8,1
+user_260,Group A,Standard Home,Older Personal,66,53,18,5,1
+user_261,Group A,High-Speed Home,Older Personal,26,50,27,4,1
+user_262,Group B,Public Wi-Fi,Older Personal,246,30,23,12,0
+user_263,Group A,High-Speed Home,Modern Personal,23,20,4,5,0
+user_264,Group A,Standard Home,Modern Personal,97,12,8,6,0
+user_265,Group A,High-Speed Home,Older Personal,26,57,21,3,1
+user_266,Group A,Standard Home,Modern Personal,131,20,14,4,1
+user_267,Group B,Public Wi-Fi,Older Personal,328,71,12,5,1
+user_268,Group A,High-Speed Home,Modern Personal,33,15,7,6,0
+user_269,Group A,Standard Home,Modern Personal,67,6,8,1,0
+user_270,Group A,High-Speed Home,Older Personal,49,47,26,2,0
+user_271,Group A,Standard Home,Modern Personal,67,21,11,2,1
+user_272,Group A,Standard Home,Older Personal,76,44,23,6,0
+user_273,Group A,Mobile Hotspot,Modern Personal,139,7,5,4,1
+user_274,Group B,Public Wi-Fi,Shared/Public,177,91,50,7,1
+user_275,Group B,Public Wi-Fi,Shared/Public,261,65,29,5,1
+user_276,Group B,Mobile Hotspot,Shared/Public,141,108,43,6,1
+user_277,Group A,High-Speed Home,Modern Personal,37,3,4,5,0
+user_278,Group A,High-Speed Home,Older Personal,30,53,8,7,1
+user_279,Group A,Standard Home,Modern Personal,71,3,13,6,0
+user_280,Group A,Public Wi-Fi,Modern Personal,306,6,8,4,1
+user_281,Group A,Standard Home,Older Personal,97,55,13,3,0
+user_282,Group A,High-Speed Home,Modern Personal,27,12,4,2,0
+user_283,Group A,High-Speed Home,Modern Personal,28,5,12,5,0
+user_284,Group A,Standard Home,Older Personal,81,35,7,6,0
+user_285,Group A,High-Speed Home,Modern Personal,11,16,4,7,0
+user_286,Group A,High-Speed Home,Shared/Public,20,69,48,3,1
+user_287,Group A,High-Speed Home,Modern Personal,16,7,11,6,0
+user_288,Group B,Mobile Hotspot,Older Personal,195,30,11,7,1
+user_289,Group B,Public Wi-Fi,Shared/Public,256,99,24,10,1
+user_290,Group A,Mobile Hotspot,Modern Personal,141,14,10,5,1
+user_291,Group A,High-Speed Home,Modern Personal,12,16,5,6,0
+user_292,Group B,Public Wi-Fi,Shared/Public,273,61,52,10,1
+user_293,Group B,Public Wi-Fi,Older Personal,322,52,21,7,1
+user_294,Group B,Mobile Hotspot,Older Personal,161,53,17,5,1
+user_295,Group A,High-Speed Home,Modern Personal,18,17,11,9,0
+user_296,Group A,Mobile Hotspot,Older Personal,98,36,11,3,0
+user_297,Group A,High-Speed Home,Modern Personal,39,17,11,6,0
+user_298,Group A,Standard Home,Modern Personal,54,1,4,5,1
+user_299,Group B,Mobile Hotspot,Older Personal,73,49,15,5,0
+user_300,Group A,High-Speed Home,Modern Personal,24,19,7,5,0
+user_301,Group B,Public Wi-Fi,Older Personal,173,48,27,6,1
+user_302,Group B,Mobile Hotspot,Shared/Public,223,102,60,6,1
+user_303,Group A,Standard Home,Modern Personal,70,9,4,4,0
+user_304,Group A,Public Wi-Fi,Modern Personal,279,17,6,6,1
+user_305,Group B,Public Wi-Fi,Shared/Public,380,106,27,8,1
+user_306,Group A,High-Speed Home,Older Personal,23,48,10,4,0
+user_307,Group A,Standard Home,Modern Personal,52,1,7,7,0
+user_308,Group A,Standard Home,Modern Personal,87,22,5,4,0
+user_309,Group B,Public Wi-Fi,Older Personal,295,27,20,10,1
+user_310,Group B,Public Wi-Fi,Shared/Public,342,97,35,10,1
+user_311,Group A,High-Speed Home,Older Personal,29,57,14,2,1
+user_312,Group A,Standard Home,Older Personal,86,31,22,5,0
+user_313,Group B,Public Wi-Fi,Shared/Public,150,95,25,4,1
+user_314,Group A,High-Speed Home,Modern Personal,39,13,5,2,0
+user_315,Group A,Standard Home,Modern Personal,39,2,7,2,0
+user_316,Group B,Public Wi-Fi,Shared/Public,328,76,48,5,1
+user_317,Group A,Standard Home,Modern Personal,55,11,1,6,0
+user_318,Group A,Public Wi-Fi,Older Personal,172,28,29,5,1
+user_319,Group B,Public Wi-Fi,Older Personal,182,55,17,9,1
+user_320,Group A,High-Speed Home,Modern Personal,35,22,3,5,0
+user_321,Group A,High-Speed Home,Older Personal,37,44,18,5,0
+user_322,Group A,Mobile Hotspot,Modern Personal,114,1,5,9,1
+user_323,Group B,Public Wi-Fi,Older Personal,283,55,21,4,1
+user_324,Group A,High-Speed Home,Modern Personal,19,9,4,4,0
+user_325,Group A,High-Speed Home,Older Personal,20,27,24,2,0
+user_326,Group A,High-Speed Home,Older Personal,11,66,13,4,1
+user_327,Group B,Mobile Hotspot,Shared/Public,160,75,34,7,1
+user_328,Group A,High-Speed Home,Older Personal,34,52,15,6,1
+user_329,Group A,High-Speed Home,Modern Personal,53,5,8,5,0
+user_330,Group B,Public Wi-Fi,Older Personal,152,36,14,11,1
+user_331,Group A,Mobile Hotspot,Modern Personal,167,6,8,4,1
+user_332,Group B,Mobile Hotspot,Shared/Public,188,64,61,4,1
+user_333,Group A,High-Speed Home,Modern Personal,35,7,5,8,1
+user_334,Group B,Mobile Hotspot,Shared/Public,219,86,49,7,1
+user_335,Group A,Public Wi-Fi,Modern Personal,130,7,6,3,1
+user_336,Group A,High-Speed Home,Modern Personal,26,8,1,4,0
+user_337,Group B,Public Wi-Fi,Shared/Public,275,100,73,7,1
+user_338,Group A,Mobile Hotspot,Older Personal,82,30,19,6,0
+user_339,Group A,Standard Home,Modern Personal,70,2,2,6,1
+user_340,Group B,Mobile Hotspot,Shared/Public,137,71,45,4,1
+user_341,Group B,Public Wi-Fi,Shared/Public,274,61,46,10,1
+user_342,Group A,Standard Home,Modern Personal,86,22,11,7,0
+user_343,Group B,Mobile Hotspot,Shared/Public,150,112,51,9,1
+user_344,Group A,Mobile Hotspot,Older Personal,186,49,18,6,1
+user_345,Group A,High-Speed Home,Older Personal,32,30,15,6,0
+user_346,Group A,Public Wi-Fi,Modern Personal,223,2,11,2,1
+user_347,Group A,High-Speed Home,Modern Personal,18,22,8,8,0
+user_348,Group A,High-Speed Home,Modern Personal,13,6,8,1,0
+user_349,Group A,High-Speed Home,Modern Personal,19,22,9,8,0
+user_350,Group A,Standard Home,Older Personal,63,58,14,7,1
+user_351,Group A,Standard Home,Modern Personal,45,1,6,7,0
+user_352,Group A,High-Speed Home,Modern Personal,36,20,8,2,0
+user_353,Group A,High-Speed Home,Modern Personal,18,15,8,3,0
+user_354,Group A,High-Speed Home,Older Personal,20,53,15,8,1
+user_355,Group B,High-Speed Home,Older Personal,24,46,19,6,0
+user_356,Group A,Standard Home,Older Personal,80,64,19,5,1
+user_357,Group A,Standard Home,Older Personal,55,26,21,4,0
+user_358,Group B,Mobile Hotspot,Shared/Public,172,63,38,4,1
+user_359,Group A,High-Speed Home,Older Personal,26,46,33,3,1
+user_360,Group A,High-Speed Home,Modern Personal,29,1,10,8,0
+user_361,Group A,High-Speed Home,Modern Personal,26,11,11,7,0
+user_362,Group A,High-Speed Home,Modern Personal,20,19,5,2,0
+user_363,Group A,Standard Home,Modern Personal,70,1,13,8,0
+user_364,Group A,Public Wi-Fi,Modern Personal,206,14,9,2,1
+user_365,Group B,Public Wi-Fi,Shared/Public,82,107,79,5,1
+user_366,Group B,Mobile Hotspot,Shared/Public,70,64,57,16,1
+user_367,Group A,High-Speed Home,Modern Personal,19,1,4,7,0
+user_368,Group A,High-Speed Home,Modern Personal,32,7,1,3,0
+user_369,Group A,High-Speed Home,Modern Personal,21,10,10,4,0
+user_370,Group A,High-Speed Home,Modern Personal,34,13,7,5,0
+user_371,Group A,High-Speed Home,Older Personal,22,36,17,1,0
+user_372,Group B,Mobile Hotspot,Shared/Public,150,79,56,8,1
+user_373,Group A,Public Wi-Fi,Older Personal,206,53,22,3,1
+user_374,Group B,Mobile Hotspot,Older Personal,109,51,19,6,1
+user_375,Group A,High-Speed Home,Older Personal,33,60,18,2,1
+user_376,Group B,Public Wi-Fi,Shared/Public,284,80,70,4,1
+user_377,Group B,Mobile Hotspot,Shared/Public,117,62,16,5,1
+user_378,Group A,High-Speed Home,Older Personal,19,51,20,10,1
+user_379,Group B,Mobile Hotspot,Shared/Public,227,69,57,8,1
+user_380,Group A,Mobile Hotspot,Older Personal,239,32,20,2,1
+user_381,Group A,Mobile Hotspot,Modern Personal,188,18,9,5,1
+user_382,Group A,High-Speed Home,Modern Personal,33,13,4,5,0
+user_383,Group B,Mobile Hotspot,Older Personal,148,41,12,2,1
+user_384,Group A,High-Speed Home,Modern Personal,40,13,4,2,0
+user_385,Group A,High-Speed Home,Modern Personal,25,13,8,4,0
+user_386,Group A,High-Speed Home,Modern Personal,22,22,3,10,0
+user_387,Group A,High-Speed Home,Shared/Public,29,92,17,8,0
+user_388,Group A,High-Speed Home,Modern Personal,16,17,11,5,0
+user_389,Group A,Standard Home,Older Personal,102,36,7,6,1
+user_390,Group A,High-Speed Home,Modern Personal,45,21,4,2,0
+user_391,Group A,High-Speed Home,Older Personal,36,62,23,7,1
+user_392,Group B,Mobile Hotspot,Shared/Public,148,69,53,13,1
+user_393,Group A,High-Speed Home,Modern Personal,34,1,5,3,0
+user_394,Group A,High-Speed Home,Shared/Public,15,96,31,6,1
+user_395,Group B,Public Wi-Fi,Older Personal,296,32,19,6,1
+user_396,Group B,Mobile Hotspot,Shared/Public,153,65,25,7,1
+user_397,Group A,High-Speed Home,Modern Personal,25,1,9,4,0
+user_398,Group A,High-Speed Home,Modern Personal,20,22,6,4,0
+user_399,Group B,Mobile Hotspot,Shared/Public,185,74,52,12,1
+user_400,Group A,High-Speed Home,Modern Personal,25,10,4,8,0
+user_401,Group B,Mobile Hotspot,Older Personal,206,43,21,5,1
+user_402,Group A,Standard Home,Modern Personal,56,6,2,4,0
+user_403,Group B,Public Wi-Fi,Older Personal,256,39,20,9,1
+user_404,Group B,Public Wi-Fi,Older Personal,353,68,25,3,1
+user_405,Group A,High-Speed Home,Modern Personal,33,11,8,5,0
+user_406,Group A,High-Speed Home,Modern Personal,18,13,7,6,0
+user_407,Group B,Public Wi-Fi,Shared/Public,152,107,29,5,1
+user_408,Group A,Mobile Hotspot,Modern Personal,120,4,8,2,1
+user_409,Group B,Public Wi-Fi,Shared/Public,138,91,55,8,1
+user_410,Group A,High-Speed Home,Modern Personal,39,16,11,6,0
+user_411,Group A,High-Speed Home,Modern Personal,26,7,6,5,0
+user_412,Group A,High-Speed Home,Modern Personal,30,21,9,6,0
+user_413,Group B,Public Wi-Fi,Modern Personal,95,10,9,5,0
+user_414,Group A,Mobile Hotspot,Older Personal,211,70,31,1,1
+user_415,Group A,High-Speed Home,Modern Personal,32,2,11,5,0
+user_416,Group B,Public Wi-Fi,Shared/Public,375,84,43,8,1
+user_417,Group B,Public Wi-Fi,Shared/Public,277,64,69,8,1
+user_418,Group A,High-Speed Home,Modern Personal,26,6,2,13,1
+user_419,Group B,Mobile Hotspot,Older Personal,33,59,12,7,1
+user_420,Group B,Public Wi-Fi,Older Personal,260,39,27,6,1
+user_421,Group B,Public Wi-Fi,Shared/Public,122,70,83,9,1
+user_422,Group A,Standard Home,Modern Personal,81,17,9,6,0
+user_423,Group B,Public Wi-Fi,Shared/Public,226,78,44,7,0
+user_424,Group B,Public Wi-Fi,Older Personal,442,55,23,5,1
+user_425,Group B,Public Wi-Fi,Shared/Public,240,82,16,7,1
+user_426,Group A,High-Speed Home,Modern Personal,27,9,8,8,0
+user_427,Group B,Public Wi-Fi,Shared/Public,194,105,55,10,1
+user_428,Group A,Standard Home,Older Personal,49,63,20,5,1
+user_429,Group A,High-Speed Home,Modern Personal,35,4,8,3,0
+user_430,Group A,High-Speed Home,Older Personal,26,37,32,4,1
+user_431,Group A,High-Speed Home,Modern Personal,41,19,6,6,0
+user_432,Group B,Mobile Hotspot,Older Personal,99,58,29,7,1
+user_433,Group A,Mobile Hotspot,Modern Personal,162,16,2,3,1
+user_434,Group A,Standard Home,Older Personal,78,66,20,8,1
+user_435,Group A,High-Speed Home,Older Personal,36,30,22,5,0
+user_436,Group A,High-Speed Home,Older Personal,30,37,8,6,0
+user_437,Group A,High-Speed Home,Modern Personal,11,19,6,9,0
+user_438,Group B,Mobile Hotspot,Older Personal,253,49,22,9,1
+user_439,Group A,High-Speed Home,Modern Personal,31,7,4,1,0
+user_440,Group B,Public Wi-Fi,Shared/Public,90,88,59,8,1
+user_441,Group A,High-Speed Home,Older Personal,28,28,16,4,0
+user_442,Group B,Mobile Hotspot,Older Personal,61,54,10,6,1
+user_443,Group B,Public Wi-Fi,Older Personal,424,39,26,5,1
+user_444,Group A,Standard Home,Modern Personal,65,1,5,4,0
+user_445,Group B,Public Wi-Fi,Older Personal,283,44,13,7,0
+user_446,Group B,Public Wi-Fi,Older Personal,477,68,27,11,1
+user_447,Group B,Public Wi-Fi,Shared/Public,274,75,46,4,1
+user_448,Group B,Mobile Hotspot,Shared/Public,139,79,66,6,1
+user_449,Group B,Public Wi-Fi,Shared/Public,263,119,31,8,1
+user_450,Group A,High-Speed Home,Modern Personal,40,16,1,8,0
+user_451,Group A,Standard Home,Modern Personal,67,12,5,5,0
+user_452,Group B,Mobile Hotspot,Shared/Public,130,108,58,8,1
+user_453,Group A,High-Speed Home,Older Personal,33,62,5,4,1
+user_454,Group A,Standard Home,Modern Personal,69,17,3,2,0
+user_455,Group A,Standard Home,Modern Personal,67,13,7,7,0
+user_456,Group B,Public Wi-Fi,Shared/Public,289,96,14,10,1
+user_457,Group A,Standard Home,Older Personal,54,32,14,4,0
+user_458,Group A,High-Speed Home,Older Personal,49,51,11,4,1
+user_459,Group A,Standard Home,Modern Personal,68,16,1,7,0
+user_460,Group A,Standard Home,Modern Personal,83,15,3,7,0
+user_461,Group A,Standard Home,Older Personal,124,68,10,4,1
+user_462,Group A,Mobile Hotspot,Older Personal,89,64,30,5,1
+user_463,Group A,High-Speed Home,Shared/Public,21,112,37,4,1
+user_464,Group B,Mobile Hotspot,Shared/Public,163,95,46,11,1
+user_465,Group A,Standard Home,Modern Personal,49,11,8,7,0
+user_466,Group B,Mobile Hotspot,Shared/Public,244,94,20,8,1
+user_467,Group B,Public Wi-Fi,Shared/Public,171,78,59,5,1
+user_468,Group A,Standard Home,Modern Personal,72,5,7,8,0
+user_469,Group A,High-Speed Home,Older Personal,27,54,18,6,1
+user_470,Group A,High-Speed Home,Modern Personal,34,4,7,4,0
+user_471,Group B,Mobile Hotspot,Shared/Public,140,88,37,9,1
+user_472,Group A,Standard Home,Modern Personal,18,3,5,4,0
+user_473,Group A,Standard Home,Modern Personal,69,14,8,3,0
+user_474,Group A,Standard Home,Modern Personal,55,19,1,5,0
+user_475,Group B,Public Wi-Fi,Shared/Public,307,108,28,2,1
+user_476,Group B,Mobile Hotspot,Shared/Public,115,75,38,9,1
+user_477,Group A,High-Speed Home,Modern Personal,32,9,9,8,0
+user_478,Group B,Mobile Hotspot,Shared/Public,190,109,55,4,1
+user_479,Group A,High-Speed Home,Older Personal,43,55,27,7,1
+user_480,Group A,High-Speed Home,Modern Personal,21,22,5,7,0
+user_481,Group A,Standard Home,Modern Personal,67,20,6,7,0
+user_482,Group A,High-Speed Home,Modern Personal,35,6,3,4,0
+user_483,Group A,Standard Home,Older Personal,119,52,26,9,1
+user_484,Group A,Standard Home,Modern Personal,69,2,2,8,0
+user_485,Group A,Standard Home,Modern Personal,86,23,11,4,0
+user_486,Group A,High-Speed Home,Modern Personal,28,4,7,7,0
+user_487,Group A,High-Speed Home,Modern Personal,39,2,4,7,0
+user_488,Group A,High-Speed Home,Modern Personal,31,1,3,6,0
+user_489,Group A,Mobile Hotspot,Older Personal,212,34,9,8,1
+user_490,Group A,High-Speed Home,Modern Personal,20,11,7,5,0
+user_491,Group A,Standard Home,Modern Personal,73,13,13,3,0
+user_492,Group A,Standard Home,Modern Personal,107,5,1,8,1
+user_493,Group B,Mobile Hotspot,Older Personal,119,54,20,7,1
+user_494,Group A,High-Speed Home,Modern Personal,42,3,6,3,0
+user_495,Group A,Standard Home,Shared/Public,88,96,40,3,1
+user_496,Group B,Public Wi-Fi,Shared/Public,240,80,42,4,1
+user_497,Group A,Standard Home,Modern Personal,66,15,3,1,0
+user_498,Group B,Public Wi-Fi,Shared/Public,289,98,28,9,1
+user_499,Group A,High-Speed Home,Modern Personal,9,5,6,6,0
+user_500,Group A,Standard Home,Modern Personal,58,16,8,3,0
+user_501,Group B,Mobile Hotspot,Shared/Public,154,74,40,2,1
+user_502,Group A,Standard Home,Older Personal,57,52,18,4,1
+user_503,Group B,Public Wi-Fi,Shared/Public,164,80,38,10,1
+user_504,Group A,High-Speed Home,Modern Personal,18,8,5,9,0
+user_505,Group A,High-Speed Home,Modern Personal,23,19,15,4,0
+user_506,Group A,Standard Home,Modern Personal,86,3,7,3,0
+user_507,Group A,Standard Home,Modern Personal,117,13,8,7,1
+user_508,Group B,Public Wi-Fi,Shared/Public,280,61,50,3,1
+user_509,Group A,Standard Home,Older Personal,42,34,25,5,0
+user_510,Group B,Mobile Hotspot,Shared/Public,120,110,57,6,1
+user_511,Group A,High-Speed Home,Modern Personal,38,19,8,6,0
+user_512,Group B,Mobile Hotspot,Shared/Public,98,66,47,6,1
+user_513,Group A,Public Wi-Fi,Modern Personal,379,15,4,6,1
+user_514,Group A,High-Speed Home,Older Personal,30,45,16,2,0
+user_515,Group A,High-Speed Home,Modern Personal,29,2,5,3,0
+user_516,Group A,Standard Home,Older Personal,43,62,17,7,1
+user_517,Group A,High-Speed Home,Older Personal,30,56,20,10,0
+user_518,Group B,Public Wi-Fi,Shared/Public,393,79,34,8,1
+user_519,Group A,Standard Home,Modern Personal,69,23,10,7,0
+user_520,Group A,High-Speed Home,Modern Personal,16,1,9,6,1
+user_521,Group A,Standard Home,Modern Personal,66,11,4,5,0
+user_522,Group A,High-Speed Home,Older Personal,26,60,8,4,1
+user_523,Group A,High-Speed Home,Modern Personal,39,22,6,8,0
+user_524,Group A,Standard Home,Older Personal,79,61,17,4,1
+user_525,Group A,High-Speed Home,Modern Personal,40,19,5,4,0
+user_526,Group B,Public Wi-Fi,Older Personal,148,37,10,2,1
+user_527,Group A,High-Speed Home,Shared/Public,31,108,44,4,1
+user_528,Group B,Mobile Hotspot,Older Personal,148,26,27,8,1
+user_529,Group A,High-Speed Home,Modern Personal,35,13,4,5,0
+user_530,Group A,High-Speed Home,Modern Personal,29,19,5,5,0
+user_531,Group B,Standard Home,Older Personal,38,32,11,4,1
+user_532,Group A,Public Wi-Fi,Older Personal,309,47,19,3,1
+user_533,Group A,High-Speed Home,Modern Personal,35,16,8,4,0
+user_534,Group B,Mobile Hotspot,Older Personal,168,66,14,9,1
+user_535,Group A,High-Speed Home,Modern Personal,35,8,5,9,0
+user_536,Group A,High-Speed Home,Modern Personal,32,21,6,2,0
+user_537,Group B,Public Wi-Fi,Older Personal,261,52,11,9,1
+user_538,Group B,Public Wi-Fi,Older Personal,207,38,25,9,1
+user_539,Group B,Public Wi-Fi,Older Personal,293,41,25,5,0
+user_540,Group A,Standard Home,Older Personal,84,63,16,6,0
+user_541,Group B,Public Wi-Fi,Older Personal,298,32,25,7,1
+user_542,Group B,Public Wi-Fi,Shared/Public,278,117,48,4,1
+user_543,Group A,Standard Home,Older Personal,59,54,12,4,1
+user_544,Group A,Mobile Hotspot,Modern Personal,140,6,9,1,1
+user_545,Group B,Public Wi-Fi,Older Personal,243,53,18,5,1
+user_546,Group A,High-Speed Home,Modern Personal,5,10,6,7,0
+user_547,Group A,High-Speed Home,Older Personal,34,62,16,4,1
+user_548,Group A,High-Speed Home,Older Personal,31,36,24,5,0
+user_549,Group B,Mobile Hotspot,Shared/Public,187,86,30,2,1
+user_550,Group B,Public Wi-Fi,Shared/Public,169,79,26,11,1
+user_551,Group B,Standard Home,Shared/Public,76,69,34,11,1
+user_552,Group B,Mobile Hotspot,Older Personal,212,39,10,6,1
+user_553,Group B,Standard Home,Older Personal,47,60,30,9,1
+user_554,Group A,High-Speed Home,Shared/Public,36,60,17,3,1
+user_555,Group A,High-Speed Home,Modern Personal,14,6,3,3,0
+user_556,Group A,High-Speed Home,Modern Personal,32,4,9,5,0
+user_557,Group A,High-Speed Home,Modern Personal,17,16,2,3,0
+user_558,Group A,Mobile Hotspot,Modern Personal,61,1,7,2,0
+user_559,Group B,Mobile Hotspot,Shared/Public,174,85,55,9,1
+user_560,Group A,High-Speed Home,Modern Personal,15,22,11,4,0
+user_561,Group A,Standard Home,Older Personal,69,42,6,8,0
+user_562,Group B,Mobile Hotspot,Older Personal,76,54,26,8,1
+user_563,Group A,High-Speed Home,Modern Personal,31,5,7,5,0
+user_564,Group A,High-Speed Home,Modern Personal,24,3,10,3,0
+user_565,Group A,High-Speed Home,Modern Personal,18,3,7,6,0
+user_566,Group B,Public Wi-Fi,Older Personal,329,43,16,7,1
+user_567,Group A,Standard Home,Modern Personal,88,3,5,6,0
+user_568,Group A,High-Speed Home,Modern Personal,38,20,6,1,0
+user_569,Group A,High-Speed Home,Modern Personal,39,22,7,3,0
+user_570,Group A,High-Speed Home,Older Personal,32,41,21,3,0
+user_571,Group B,Public Wi-Fi,Shared/Public,249,78,59,8,1
+user_572,Group A,Standard Home,Older Personal,82,59,24,8,1
+user_573,Group A,High-Speed Home,Modern Personal,40,13,6,7,0
+user_574,Group B,Mobile Hotspot,Older Personal,151,67,11,3,1
+user_575,Group A,High-Speed Home,Older Personal,29,53,18,4,1
+user_576,Group A,High-Speed Home,Modern Personal,37,17,8,4,0
+user_577,Group A,High-Speed Home,Modern Personal,33,13,7,1,0
+user_578,Group A,High-Speed Home,Modern Personal,19,20,10,3,0
+user_579,Group A,High-Speed Home,Shared/Public,29,71,48,4,1
+user_580,Group A,High-Speed Home,Modern Personal,29,10,5,1,0
+user_581,Group A,High-Speed Home,Older Personal,30,38,10,5,0
+user_582,Group A,Standard Home,Shared/Public,48,65,51,5,1
+user_583,Group A,High-Speed Home,Modern Personal,9,1,8,13,1
+user_584,Group B,Public Wi-Fi,Shared/Public,263,85,52,10,0
+user_585,Group A,Standard Home,Shared/Public,98,114,46,8,1
+user_586,Group B,Mobile Hotspot,Older Personal,121,67,28,4,1
+user_587,Group A,High-Speed Home,Modern Personal,12,21,1,3,0
+user_588,Group A,Public Wi-Fi,Modern Personal,337,14,7,7,1
+user_589,Group B,Public Wi-Fi,Shared/Public,344,101,32,12,1
+user_590,Group A,High-Speed Home,Modern Personal,28,16,12,4,0
+user_591,Group B,Mobile Hotspot,Shared/Public,139,105,27,5,1
+user_592,Group A,High-Speed Home,Older Personal,24,59,15,3,1
+user_593,Group A,High-Speed Home,Older Personal,37,67,29,4,1
+user_594,Group B,Mobile Hotspot,Older Personal,169,42,26,8,1
+user_595,Group A,Standard Home,Modern Personal,88,9,1,3,0
+user_596,Group A,Standard Home,Older Personal,138,40,28,5,1
+user_597,Group A,Standard Home,Modern Personal,39,17,10,6,0
+user_598,Group B,Mobile Hotspot,Shared/Public,110,88,57,6,1
+user_599,Group A,Mobile Hotspot,Modern Personal,64,12,6,5,0
+user_600,Group A,Standard Home,Modern Personal,58,8,9,5,0
+user_601,Group B,Public Wi-Fi,Shared/Public,157,114,33,13,1
+user_602,Group A,High-Speed Home,Modern Personal,23,22,11,5,0
+user_603,Group A,High-Speed Home,Modern Personal,43,14,10,4,0
+user_604,Group A,High-Speed Home,Older Personal,19,25,9,3,0
+user_605,Group A,Standard Home,Older Personal,81,48,21,4,1
+user_606,Group A,High-Speed Home,Modern Personal,30,7,8,6,0
+user_607,Group B,Mobile Hotspot,Modern Personal,125,1,7,11,1
+user_608,Group A,High-Speed Home,Modern Personal,30,4,3,1,0
+user_609,Group A,Standard Home,Older Personal,59,51,8,2,1
+user_610,Group A,High-Speed Home,Modern Personal,30,14,5,4,0
+user_611,Group A,High-Speed Home,Modern Personal,16,14,4,7,0
+user_612,Group A,High-Speed Home,Modern Personal,29,9,4,4,0
+user_613,Group A,High-Speed Home,Modern Personal,19,22,8,3,0
+user_614,Group B,Public Wi-Fi,Older Personal,187,63,21,5,1
+user_615,Group A,High-Speed Home,Older Personal,36,65,22,7,0
+user_616,Group B,Public Wi-Fi,Shared/Public,312,94,40,5,1
+user_617,Group A,High-Speed Home,Modern Personal,19,8,5,5,0
+user_618,Group A,Standard Home,Shared/Public,89,86,34,5,1
+user_619,Group A,Mobile Hotspot,Modern Personal,139,23,12,4,1
+user_620,Group A,High-Speed Home,Older Personal,32,38,16,4,0
+user_621,Group A,Public Wi-Fi,Modern Personal,437,16,10,1,1
+user_622,Group A,Standard Home,Modern Personal,53,20,5,11,1
+user_623,Group A,High-Speed Home,Modern Personal,33,17,3,3,0
+user_624,Group B,Public Wi-Fi,Shared/Public,352,81,56,6,1
+user_625,Group A,High-Speed Home,Modern Personal,23,15,9,3,0
+user_626,Group A,High-Speed Home,Older Personal,33,47,10,1,0
+user_627,Group A,High-Speed Home,Modern Personal,30,1,2,5,0
+user_628,Group A,Standard Home,Older Personal,57,44,11,2,0
+user_629,Group A,High-Speed Home,Modern Personal,33,3,8,4,0
+user_630,Group A,Standard Home,Older Personal,52,57,17,6,1
+user_631,Group A,Standard Home,Older Personal,34,25,20,5,0
+user_632,Group B,Public Wi-Fi,Older Personal,378,34,17,3,1
+user_633,Group B,Mobile Hotspot,Shared/Public,122,74,68,4,1
+user_634,Group A,High-Speed Home,Older Personal,24,54,23,6,1
+user_635,Group A,Mobile Hotspot,Modern Personal,177,13,7,5,1
+user_636,Group A,Standard Home,Modern Personal,106,17,8,7,1
+user_637,Group B,Mobile Hotspot,Shared/Public,114,97,39,7,1
+user_638,Group A,High-Speed Home,Older Personal,15,58,23,5,1
+user_639,Group A,High-Speed Home,Older Personal,39,33,20,3,0
+user_640,Group A,High-Speed Home,Older Personal,40,32,11,4,0
+user_641,Group B,Mobile Hotspot,Older Personal,206,31,20,3,1
+user_642,Group A,High-Speed Home,Older Personal,33,30,12,3,0
+user_643,Group A,High-Speed Home,Modern Personal,42,1,8,5,0
+user_644,Group A,Standard Home,Modern Personal,53,15,7,6,0
+user_645,Group B,Public Wi-Fi,Shared/Public,272,112,46,5,1
+user_646,Group A,High-Speed Home,Modern Personal,17,7,7,5,0
+user_647,Group B,Public Wi-Fi,Older Personal,182,52,27,7,1
+user_648,Group B,Public Wi-Fi,Shared/Public,251,61,61,7,1
+user_649,Group B,Public Wi-Fi,Shared/Public,176,95,31,7,1
+user_650,Group A,High-Speed Home,Modern Personal,16,17,5,3,0
+user_651,Group A,High-Speed Home,Older Personal,13,37,14,3,0
+user_652,Group B,Public Wi-Fi,Shared/Public,184,88,61,6,1
+user_653,Group A,High-Speed Home,Modern Personal,33,7,7,5,0
+user_654,Group B,Public Wi-Fi,Older Personal,219,40,21,1,1
+user_655,Group A,Standard Home,Modern Personal,83,2,6,4,0
+user_656,Group B,Public Wi-Fi,Shared/Public,339,81,33,12,1
+user_657,Group A,Standard Home,Modern Personal,75,2,11,2,0
+user_658,Group B,Public Wi-Fi,Modern Personal,258,21,7,8,1
+user_659,Group A,High-Speed Home,Modern Personal,37,5,9,2,0
+user_660,Group A,High-Speed Home,Modern Personal,44,18,14,7,0
+user_661,Group B,Mobile Hotspot,Older Personal,130,46,16,11,1
+user_662,Group A,Standard Home,Modern Personal,72,21,11,4,0
+user_663,Group A,High-Speed Home,Modern Personal,18,2,6,9,0
+user_664,Group A,Standard Home,Modern Personal,45,5,7,3,0
+user_665,Group A,High-Speed Home,Older Personal,35,69,21,2,1
+user_666,Group A,Public Wi-Fi,Modern Personal,236,10,3,1,1
+user_667,Group A,Standard Home,Modern Personal,53,23,5,5,0
+user_668,Group B,Public Wi-Fi,Older Personal,292,58,27,6,1
+user_669,Group A,Standard Home,Modern Personal,67,2,8,8,0
+user_670,Group A,Standard Home,Modern Personal,42,7,6,2,0
+user_671,Group A,Standard Home,Older Personal,74,63,33,4,1
+user_672,Group A,Standard Home,Older Personal,72,56,23,3,1
+user_673,Group A,Standard Home,Older Personal,26,46,10,1,0
+user_674,Group A,Standard Home,Modern Personal,94,1,9,8,0
+user_675,Group A,High-Speed Home,Modern Personal,26,19,8,6,0
+user_676,Group A,High-Speed Home,Shared/Public,18,71,56,5,1
+user_677,Group A,Standard Home,Modern Personal,111,9,5,4,1
+user_678,Group B,Mobile Hotspot,Older Personal,45,57,10,4,1
+user_679,Group B,Mobile Hotspot,Older Personal,195,67,15,7,1
+user_680,Group A,Standard Home,Older Personal,84,32,22,3,0
+user_681,Group A,Standard Home,Modern Personal,41,22,9,1,0
+user_682,Group B,Public Wi-Fi,Shared/Public,192,85,60,6,1
+user_683,Group A,High-Speed Home,Modern Personal,26,1,11,6,0
+user_684,Group B,Public Wi-Fi,Older Personal,233,29,9,7,1
+user_685,Group B,Mobile Hotspot,Shared/Public,203,92,41,5,1
+user_686,Group A,Standard Home,Shared/Public,101,113,60,4,1
+user_687,Group A,High-Speed Home,Older Personal,13,31,12,7,0
+user_688,Group A,High-Speed Home,Modern Personal,34,23,7,4,0
+user_689,Group A,Standard Home,Modern Personal,87,13,4,5,0
+user_690,Group A,Mobile Hotspot,Older Personal,94,34,23,4,0
+user_691,Group A,Standard Home,Older Personal,76,30,18,10,0
+user_692,Group A,High-Speed Home,Modern Personal,44,3,2,5,0
+user_693,Group A,Standard Home,Modern Personal,56,21,3,4,0
+user_694,Group A,Standard Home,Older Personal,114,56,21,10,1
+user_695,Group A,Standard Home,Modern Personal,54,17,10,5,0
+user_696,Group A,High-Speed Home,Shared/Public,38,68,44,5,1
+user_697,Group A,High-Speed Home,Older Personal,31,57,26,5,1
+user_698,Group B,Public Wi-Fi,Older Personal,222,67,24,9,1
+user_699,Group B,Mobile Hotspot,Shared/Public,128,119,56,7,1
+user_700,Group B,Public Wi-Fi,Shared/Public,423,86,32,6,1
+user_701,Group A,Mobile Hotspot,Modern Personal,157,20,11,1,1
+user_702,Group A,Standard Home,Modern Personal,38,13,7,4,0
+user_703,Group A,Standard Home,Older Personal,51,42,17,6,0
+user_704,Group A,Standard Home,Modern Personal,93,1,6,3,0
+user_705,Group A,Mobile Hotspot,Modern Personal,157,1,10,5,1
+user_706,Group A,High-Speed Home,Older Personal,37,32,11,4,0
+user_707,Group B,Mobile Hotspot,Shared/Public,98,114,32,3,1
+user_708,Group A,High-Speed Home,Modern Personal,17,1,10,4,0
+user_709,Group A,High-Speed Home,Modern Personal,15,7,9,8,0
+user_710,Group A,Standard Home,Modern Personal,104,21,5,6,1
+user_711,Group A,High-Speed Home,Modern Personal,15,9,8,6,0
+user_712,Group A,Standard Home,Modern Personal,69,1,2,3,0
+user_713,Group B,Mobile Hotspot,Shared/Public,174,108,35,7,1
+user_714,Group A,Public Wi-Fi,Modern Personal,297,9,8,4,1
+user_715,Group A,Standard Home,Older Personal,86,70,26,3,1
+user_716,Group B,Public Wi-Fi,Older Personal,304,55,15,4,1
+user_717,Group A,Standard Home,Modern Personal,62,9,9,2,0
+user_718,Group A,High-Speed Home,Modern Personal,35,11,9,3,0
+user_719,Group B,Public Wi-Fi,Older Personal,233,43,30,4,1
+user_720,Group A,Standard Home,Modern Personal,83,3,3,1,0
+user_721,Group A,High-Speed Home,Older Personal,16,39,21,7,0
+user_722,Group B,Public Wi-Fi,Older Personal,211,52,22,7,1
+user_723,Group A,High-Speed Home,Older Personal,37,61,27,6,1
+user_724,Group A,Standard Home,Modern Personal,60,2,9,5,0
+user_725,Group B,Mobile Hotspot,Shared/Public,230,99,21,3,1
+user_726,Group B,Mobile Hotspot,Shared/Public,161,103,43,7,1
+user_727,Group A,Standard Home,Modern Personal,108,20,10,3,1
+user_728,Group A,High-Speed Home,Modern Personal,28,8,5,3,0
+user_729,Group A,High-Speed Home,Older Personal,31,51,24,2,1
+user_730,Group A,Mobile Hotspot,Modern Personal,215,3,7,5,1
+user_731,Group A,High-Speed Home,Older Personal,25,45,16,5,0
+user_732,Group A,High-Speed Home,Modern Personal,16,18,4,7,0
+user_733,Group B,Public Wi-Fi,Shared/Public,254,76,40,10,1
+user_734,Group A,Standard Home,Modern Personal,77,10,4,8,0
+user_735,Group B,Public Wi-Fi,Older Personal,289,25,21,9,1
+user_736,Group A,Standard Home,Older Personal,75,70,26,2,1
+user_737,Group A,High-Speed Home,Modern Personal,29,18,7,4,0
+user_738,Group A,High-Speed Home,Modern Personal,44,15,6,4,0
+user_739,Group A,High-Speed Home,Modern Personal,20,15,6,7,0
+user_740,Group A,Standard Home,Modern Personal,65,3,10,1,0
+user_741,Group B,Public Wi-Fi,Older Personal,316,33,27,5,1
+user_742,Group A,Public Wi-Fi,Modern Personal,296,15,5,10,1
+user_743,Group A,High-Speed Home,Modern Personal,28,18,5,7,0
+user_744,Group A,High-Speed Home,Older Personal,31,52,25,7,1
+user_745,Group A,High-Speed Home,Modern Personal,35,4,6,6,0
+user_746,Group B,Mobile Hotspot,Shared/Public,136,68,52,15,1
+user_747,Group B,Public Wi-Fi,Shared/Public,255,98,64,9,1
+user_748,Group A,Public Wi-Fi,Modern Personal,322,16,7,1,1
+user_749,Group B,Public Wi-Fi,Older Personal,293,65,16,13,1
+user_750,Group B,Mobile Hotspot,Shared/Public,206,79,54,3,1
+user_751,Group A,High-Speed Home,Modern Personal,43,19,9,5,0
+user_752,Group A,High-Speed Home,Modern Personal,28,4,5,4,0
+user_753,Group A,Mobile Hotspot,Modern Personal,158,12,10,4,1
+user_754,Group A,High-Speed Home,Modern Personal,39,13,5,5,0
+user_755,Group A,High-Speed Home,Modern Personal,28,21,6,1,0
+user_756,Group A,High-Speed Home,Modern Personal,34,12,9,9,0
+user_757,Group A,Mobile Hotspot,Modern Personal,78,21,8,6,0
+user_758,Group A,Standard Home,Modern Personal,73,22,15,2,0
+user_759,Group A,High-Speed Home,Modern Personal,33,18,4,8,1
+user_760,Group A,High-Speed Home,Modern Personal,46,7,3,6,0
+user_761,Group A,High-Speed Home,Older Personal,36,33,18,6,0
+user_762,Group A,High-Speed Home,Older Personal,19,41,20,5,0
+user_763,Group A,Standard Home,Older Personal,78,65,19,1,1
+user_764,Group B,Mobile Hotspot,Shared/Public,194,60,33,8,1
+user_765,Group B,High-Speed Home,Shared/Public,36,111,66,9,1
+user_766,Group A,High-Speed Home,Older Personal,24,58,17,4,1
+user_767,Group A,Public Wi-Fi,Older Personal,302,28,23,8,1
+user_768,Group B,Public Wi-Fi,Older Personal,179,65,14,4,1
+user_769,Group A,High-Speed Home,Modern Personal,35,13,4,3,0
+user_770,Group A,High-Speed Home,Modern Personal,36,10,8,4,0
+user_771,Group A,High-Speed Home,Modern Personal,34,18,5,7,0
+user_772,Group A,High-Speed Home,Modern Personal,49,22,4,4,0
+user_773,Group A,High-Speed Home,Modern Personal,36,12,6,3,0
+user_774,Group A,High-Speed Home,Modern Personal,44,23,7,4,0
+user_775,Group A,High-Speed Home,Modern Personal,44,11,9,7,0
+user_776,Group A,Standard Home,Modern Personal,48,16,8,4,0
+user_777,Group B,Mobile Hotspot,Older Personal,147,60,19,6,1
+user_778,Group B,Public Wi-Fi,Shared/Public,198,100,44,6,1
+user_779,Group A,Standard Home,Older Personal,65,37,14,5,0
+user_780,Group A,High-Speed Home,Older Personal,20,68,17,7,1
+user_781,Group A,High-Speed Home,Modern Personal,16,6,3,6,0
+user_782,Group A,Standard Home,Modern Personal,26,12,5,5,0
+user_783,Group B,Public Wi-Fi,Older Personal,333,71,10,8,1
+user_784,Group B,Public Wi-Fi,Shared/Public,176,76,54,6,1
+user_785,Group A,High-Speed Home,Older Personal,26,32,19,4,0
+user_786,Group B,Mobile Hotspot,Older Personal,91,49,13,6,1
+user_787,Group A,High-Speed Home,Modern Personal,43,6,14,5,0
+user_788,Group B,Mobile Hotspot,Older Personal,137,34,22,9,1
+user_789,Group B,Public Wi-Fi,Shared/Public,196,81,33,8,1
+user_790,Group A,Standard Home,Modern Personal,38,21,9,4,0
+user_791,Group A,Standard Home,Older Personal,73,31,23,6,0
+user_792,Group A,Standard Home,Modern Personal,104,16,9,1,1
+user_793,Group A,High-Speed Home,Modern Personal,29,14,4,9,1
+user_794,Group B,Public Wi-Fi,Older Personal,281,50,19,8,1
+user_795,Group A,High-Speed Home,Older Personal,37,33,14,6,0
+user_796,Group A,High-Speed Home,Shared/Public,34,69,51,7,1
+user_797,Group A,High-Speed Home,Modern Personal,17,1,2,6,0
+user_798,Group A,High-Speed Home,Modern Personal,26,19,4,2,0
+user_799,Group B,Public Wi-Fi,Shared/Public,217,60,40,8,1
+user_800,Group A,Standard Home,Older Personal,68,59,25,5,1
+user_801,Group A,Mobile Hotspot,Older Personal,151,26,20,4,1
+user_802,Group A,High-Speed Home,Modern Personal,39,12,11,10,0
+user_803,Group B,Standard Home,Shared/Public,95,114,48,4,1
+user_804,Group A,Standard Home,Modern Personal,47,22,2,7,0
+user_805,Group A,Standard Home,Modern Personal,50,2,10,3,0
+user_806,Group A,High-Speed Home,Modern Personal,26,21,10,2,0
+user_807,Group B,Public Wi-Fi,Shared/Public,274,112,54,12,1
+user_808,Group A,High-Speed Home,Modern Personal,41,8,3,6,0
+user_809,Group A,High-Speed Home,Older Personal,34,65,22,1,1
+user_810,Group B,Standard Home,Older Personal,51,26,12,6,0
+user_811,Group B,Mobile Hotspot,Older Personal,154,68,1,9,1
+user_812,Group A,High-Speed Home,Modern Personal,34,1,6,2,0
+user_813,Group A,High-Speed Home,Older Personal,22,46,17,2,0
+user_814,Group A,Standard Home,Older Personal,64,31,18,5,0
+user_815,Group A,High-Speed Home,Modern Personal,41,19,4,4,0
+user_816,Group B,Mobile Hotspot,Shared/Public,80,69,48,2,1
+user_817,Group A,High-Speed Home,Modern Personal,22,2,7,6,0
+user_818,Group B,Public Wi-Fi,Shared/Public,184,113,21,10,1
+user_819,Group A,High-Speed Home,Modern Personal,42,7,9,2,0
+user_820,Group B,Public Wi-Fi,Older Personal,293,60,25,1,1
+user_821,Group B,Mobile Hotspot,Older Personal,206,67,15,11,1
+user_822,Group B,Public Wi-Fi,Shared/Public,165,62,39,8,1
+user_823,Group A,High-Speed Home,Modern Personal,39,6,4,10,0
+user_824,Group A,High-Speed Home,Modern Personal,45,1,2,4,0
+user_825,Group B,Public Wi-Fi,Shared/Public,282,95,59,8,1
+user_826,Group B,Public Wi-Fi,Older Personal,323,30,12,5,1
+user_827,Group A,High-Speed Home,Modern Personal,36,10,11,8,0
+user_828,Group A,High-Speed Home,Shared/Public,33,76,48,5,1
+user_829,Group A,High-Speed Home,Older Personal,40,42,24,4,0
+user_830,Group A,High-Speed Home,Older Personal,42,30,16,2,0
+user_831,Group B,Public Wi-Fi,Older Personal,404,51,17,10,1
+user_832,Group A,High-Speed Home,Modern Personal,15,2,7,8,0
+user_833,Group A,High-Speed Home,Modern Personal,30,21,12,4,0
+user_834,Group B,Public Wi-Fi,Shared/Public,288,74,27,8,0
+user_835,Group A,High-Speed Home,Modern Personal,30,15,1,3,0
+user_836,Group A,High-Speed Home,Modern Personal,33,9,6,3,0
+user_837,Group A,High-Speed Home,Modern Personal,27,16,8,2,0
+user_838,Group A,Standard Home,Older Personal,55,70,20,5,1
+user_839,Group A,Public Wi-Fi,Modern Personal,319,19,8,6,1
+user_840,Group A,High-Speed Home,Modern Personal,28,4,5,1,0
+user_841,Group A,High-Speed Home,Modern Personal,29,11,8,4,0
+user_842,Group A,High-Speed Home,Modern Personal,30,12,4,6,0
+user_843,Group A,Standard Home,Modern Personal,55,14,4,6,0
+user_844,Group A,High-Speed Home,Older Personal,25,37,5,3,0
+user_845,Group A,Standard Home,Modern Personal,44,4,6,7,1
+user_846,Group A,Public Wi-Fi,Shared/Public,221,81,12,4,1
+user_847,Group B,Public Wi-Fi,Shared/Public,280,118,52,8,1
+user_848,Group B,High-Speed Home,Shared/Public,26,105,38,4,1
+user_849,Group A,Standard Home,Modern Personal,70,7,4,3,0
+user_850,Group A,Standard Home,Modern Personal,78,16,5,7,1
+user_851,Group A,Standard Home,Modern Personal,90,5,14,4,0
+user_852,Group A,Standard Home,Modern Personal,75,8,10,3,0
+user_853,Group B,Public Wi-Fi,Shared/Public,202,99,55,6,1
+user_854,Group A,Standard Home,Modern Personal,73,14,10,4,0
+user_855,Group A,High-Speed Home,Modern Personal,22,23,7,5,0
+user_856,Group A,High-Speed Home,Modern Personal,38,4,7,6,0
+user_857,Group B,Public Wi-Fi,Older Personal,159,52,22,3,1
+user_858,Group B,Mobile Hotspot,Shared/Public,193,113,44,6,1
+user_859,Group A,High-Speed Home,Modern Personal,41,19,7,7,0
+user_860,Group B,Mobile Hotspot,Shared/Public,258,83,49,7,1
+user_861,Group A,High-Speed Home,Older Personal,46,48,18,7,0
+user_862,Group B,Mobile Hotspot,Shared/Public,161,66,58,10,1
+user_863,Group A,High-Speed Home,Modern Personal,37,18,4,4,0
+user_864,Group B,Mobile Hotspot,Older Personal,226,41,21,9,1
+user_865,Group A,High-Speed Home,Modern Personal,32,22,7,5,0
+user_866,Group B,Public Wi-Fi,Older Personal,223,46,25,5,1
+user_867,Group A,High-Speed Home,Modern Personal,46,6,3,7,0
+user_868,Group B,Public Wi-Fi,Older Personal,270,48,29,3,1
+user_869,Group A,High-Speed Home,Modern Personal,44,4,4,4,0
+user_870,Group A,Standard Home,Modern Personal,85,5,9,10,0
+user_871,Group B,Mobile Hotspot,Older Personal,199,66,26,6,1
+user_872,Group A,Standard Home,Modern Personal,67,14,7,10,0
+user_873,Group A,High-Speed Home,Modern Personal,18,13,8,6,0
+user_874,Group A,High-Speed Home,Modern Personal,10,1,12,4,0
+user_875,Group A,High-Speed Home,Older Personal,35,35,12,3,0
+user_876,Group A,Public Wi-Fi,Modern Personal,251,8,8,4,0
+user_877,Group B,Public Wi-Fi,Older Personal,203,71,11,7,1
+user_878,Group A,High-Speed Home,Modern Personal,41,17,8,5,0
+user_879,Group A,High-Speed Home,Modern Personal,27,13,13,4,0
+user_880,Group A,High-Speed Home,Modern Personal,30,22,8,6,1
+user_881,Group B,Mobile Hotspot,Modern Personal,119,22,11,2,1
+user_882,Group A,High-Speed Home,Modern Personal,53,20,13,8,0
+user_883,Group A,High-Speed Home,Modern Personal,21,19,10,5,0
+user_884,Group A,Standard Home,Modern Personal,104,11,6,5,1
+user_885,Group A,High-Speed Home,Older Personal,20,44,18,2,0
+user_886,Group A,Standard Home,Older Personal,84,67,23,2,1
+user_887,Group A,Standard Home,Modern Personal,85,11,1,7,0
+user_888,Group A,High-Speed Home,Modern Personal,21,23,8,2,0
+user_889,Group A,High-Speed Home,Older Personal,46,33,18,7,0
+user_890,Group A,Standard Home,Modern Personal,62,11,4,4,0
+user_891,Group A,Standard Home,Modern Personal,23,8,5,7,0
+user_892,Group B,Public Wi-Fi,Older Personal,272,32,22,14,1
+user_893,Group B,Public Wi-Fi,Older Personal,155,33,17,6,1
+user_894,Group A,High-Speed Home,Modern Personal,28,18,6,4,0
+user_895,Group A,High-Speed Home,Older Personal,29,31,21,6,0
+user_896,Group A,High-Speed Home,Modern Personal,28,9,3,5,0
+user_897,Group B,Public Wi-Fi,Older Personal,159,69,24,8,1
+user_898,Group A,High-Speed Home,Older Personal,32,48,22,4,1
+user_899,Group A,Public Wi-Fi,Modern Personal,149,16,3,4,1
+user_900,Group A,High-Speed Home,Shared/Public,28,103,60,2,1
+user_901,Group A,Standard Home,Older Personal,44,57,20,6,1
+user_902,Group A,Standard Home,Modern Personal,61,15,5,3,0
+user_903,Group A,High-Speed Home,Older Personal,32,36,37,4,1
+user_904,Group A,High-Speed Home,Older Personal,27,40,6,4,0
+user_905,Group A,High-Speed Home,Modern Personal,35,19,2,4,0
+user_906,Group A,Standard Home,Older Personal,92,39,24,8,0
+user_907,Group B,Mobile Hotspot,Shared/Public,135,78,53,3,1
+user_908,Group A,High-Speed Home,Older Personal,43,29,6,2,0
+user_909,Group A,Standard Home,Modern Personal,42,8,6,5,0
+user_910,Group A,Public Wi-Fi,Modern Personal,170,6,4,6,1
+user_911,Group B,Public Wi-Fi,Shared/Public,285,113,55,16,1
+user_912,Group A,High-Speed Home,Older Personal,37,29,24,2,0
+user_913,Group B,Standard Home,Shared/Public,67,114,58,14,1
+user_914,Group A,High-Speed Home,Modern Personal,41,6,3,5,0
+user_915,Group B,Mobile Hotspot,Shared/Public,200,74,61,11,1
+user_916,Group B,Mobile Hotspot,Shared/Public,170,116,50,2,1
+user_917,Group A,Public Wi-Fi,Older Personal,462,30,13,3,1
+user_918,Group B,Mobile Hotspot,Older Personal,143,33,19,6,1
+user_919,Group A,High-Speed Home,Modern Personal,47,5,9,4,0
+user_920,Group B,Mobile Hotspot,Shared/Public,130,72,62,8,1
+user_921,Group B,Public Wi-Fi,Older Personal,236,45,22,5,1
+user_922,Group A,Standard Home,Modern Personal,63,4,1,2,0
+user_923,Group A,Standard Home,Shared/Public,68,69,36,3,1
+user_924,Group B,Public Wi-Fi,Shared/Public,249,115,28,3,1
+user_925,Group A,Standard Home,Modern Personal,74,10,7,7,0
+user_926,Group B,Public Wi-Fi,Older Personal,269,52,9,4,1
+user_927,Group B,Public Wi-Fi,Older Personal,234,45,13,6,1
+user_928,Group A,Standard Home,Modern Personal,97,1,6,2,0
+user_929,Group B,Public Wi-Fi,Shared/Public,176,84,8,8,1
+user_930,Group A,High-Speed Home,Modern Personal,55,10,1,4,0
+user_931,Group A,Standard Home,Older Personal,49,55,23,7,1
+user_932,Group A,High-Speed Home,Older Personal,33,27,33,6,1
+user_933,Group A,Standard Home,Modern Personal,62,16,4,6,0
+user_934,Group A,Standard Home,Modern Personal,92,8,9,8,0
+user_935,Group A,High-Speed Home,Modern Personal,40,16,8,3,0
+user_936,Group A,Standard Home,Shared/Public,72,76,50,7,1
+user_937,Group A,High-Speed Home,Modern Personal,19,15,1,1,0
+user_938,Group A,Standard Home,Modern Personal,103,5,4,5,1
+user_939,Group A,Standard Home,Older Personal,73,34,14,9,0
+user_940,Group A,Standard Home,Older Personal,80,60,27,4,1
+user_941,Group B,Public Wi-Fi,Shared/Public,308,116,36,4,1
+user_942,Group A,Standard Home,Modern Personal,76,18,9,5,0
+user_943,Group A,High-Speed Home,Modern Personal,23,15,7,7,0
+user_944,Group A,Standard Home,Older Personal,56,36,17,4,0
+user_945,Group A,High-Speed Home,Modern Personal,18,22,8,4,0
+user_946,Group A,High-Speed Home,Modern Personal,13,20,8,11,1
+user_947,Group A,High-Speed Home,Modern Personal,13,16,10,5,0
+user_948,Group A,High-Speed Home,Modern Personal,17,20,7,2,0
+user_949,Group A,Standard Home,Modern Personal,112,15,5,2,1
+user_950,Group A,High-Speed Home,Modern Personal,24,5,6,3,0
+user_951,Group A,High-Speed Home,Modern Personal,38,8,6,3,0
+user_952,Group A,Public Wi-Fi,Modern Personal,242,5,5,6,1
+user_953,Group A,High-Speed Home,Modern Personal,33,18,7,10,0
+user_954,Group B,Public Wi-Fi,Older Personal,261,26,30,9,1
+user_955,Group A,High-Speed Home,Modern Personal,19,1,7,4,0
+user_956,Group B,Public Wi-Fi,Older Personal,332,25,26,7,1
+user_957,Group B,Mobile Hotspot,Older Personal,97,56,18,10,1
+user_958,Group B,Public Wi-Fi,Shared/Public,223,83,47,6,1
+user_959,Group B,Public Wi-Fi,Shared/Public,221,72,50,9,1
+user_960,Group A,Mobile Hotspot,Modern Personal,181,10,10,7,1
+user_961,Group A,High-Speed Home,Modern Personal,23,11,5,5,0
+user_962,Group A,Standard Home,Older Personal,42,66,10,4,1
+user_963,Group B,Public Wi-Fi,Older Personal,321,51,22,6,1
+user_964,Group A,High-Speed Home,Modern Personal,18,9,3,4,0
+user_965,Group A,Standard Home,Modern Personal,78,11,9,3,0
+user_966,Group A,High-Speed Home,Modern Personal,30,14,6,5,0
+user_967,Group B,Mobile Hotspot,Older Personal,75,45,26,6,0
+user_968,Group A,Standard Home,Older Personal,47,24,29,3,0
+user_969,Group A,High-Speed Home,Modern Personal,33,23,1,4,0
+user_970,Group A,Standard Home,Older Personal,53,57,26,2,1
+user_971,Group A,High-Speed Home,Modern Personal,33,1,1,5,0
+user_972,Group B,Public Wi-Fi,Shared/Public,318,77,59,11,1
+user_973,Group A,Standard Home,Modern Personal,76,2,10,7,0
+user_974,Group B,Public Wi-Fi,Older Personal,218,67,18,10,1
+user_975,Group A,High-Speed Home,Older Personal,45,31,19,5,0
+user_976,Group A,High-Speed Home,Modern Personal,30,11,8,7,0
+user_977,Group B,Mobile Hotspot,Older Personal,227,36,24,10,1
+user_978,Group A,High-Speed Home,Modern Personal,27,1,4,14,1
+user_979,Group B,Mobile Hotspot,Older Personal,109,44,17,8,1
+user_980,Group A,High-Speed Home,Older Personal,36,50,22,4,1
+user_981,Group A,High-Speed Home,Modern Personal,20,20,6,4,0
+user_982,Group B,Mobile Hotspot,Shared/Public,185,68,40,6,1
+user_983,Group A,High-Speed Home,Modern Personal,47,2,5,7,0
+user_984,Group A,Standard Home,Modern Personal,67,7,6,3,0
+user_985,Group A,Mobile Hotspot,Modern Personal,110,6,6,13,1
+user_986,Group A,Standard Home,Older Personal,85,54,19,7,1
+user_987,Group A,Standard Home,Modern Personal,108,1,10,3,1
+user_988,Group B,Public Wi-Fi,Shared/Public,254,71,30,10,1
+user_989,Group A,Standard Home,Modern Personal,76,11,6,3,0
+user_990,Group A,High-Speed Home,Modern Personal,31,18,8,4,0
+user_991,Group A,Standard Home,Modern Personal,87,23,4,5,0
+user_992,Group A,Public Wi-Fi,Modern Personal,297,15,11,9,1
+user_993,Group A,High-Speed Home,Modern Personal,31,14,13,3,0
+user_994,Group B,Mobile Hotspot,Shared/Public,182,87,27,8,1
+user_995,Group A,High-Speed Home,Modern Personal,34,18,7,4,0
+user_996,Group A,Standard Home,Modern Personal,67,11,1,3,1
+user_997,Group B,High-Speed Home,Older Personal,37,70,10,3,1
+user_998,Group A,High-Speed Home,Older Personal,38,29,17,3,0
+user_999,Group B,Public Wi-Fi,Older Personal,114,52,21,9,1
+user_1000,Group A,Standard Home,Modern Personal,72,15,2,9,0
+user_1001,Group A,Standard Home,Shared/Public,67,102,26,8,1
+user_1002,Group A,High-Speed Home,Modern Personal,37,21,9,7,0
+user_1003,Group A,Standard Home,Modern Personal,82,17,8,5,0
+user_1004,Group A,High-Speed Home,Modern Personal,12,8,5,5,0
+user_1005,Group B,Public Wi-Fi,Older Personal,237,26,16,7,1
+user_1006,Group A,High-Speed Home,Modern Personal,30,6,8,4,0
+user_1007,Group A,High-Speed Home,Modern Personal,39,1,6,2,0
+user_1008,Group B,Public Wi-Fi,Older Personal,299,25,14,4,1
+user_1009,Group A,High-Speed Home,Modern Personal,27,7,7,3,0
+user_1010,Group A,High-Speed Home,Modern Personal,18,22,6,2,0
+user_1011,Group B,Public Wi-Fi,Older Personal,200,62,32,5,1
+user_1012,Group A,High-Speed Home,Modern Personal,22,23,6,2,0
+user_1013,Group A,High-Speed Home,Older Personal,38,37,24,4,0
+user_1014,Group B,Public Wi-Fi,Shared/Public,346,82,35,8,1
+user_1015,Group B,Public Wi-Fi,Shared/Public,199,118,42,4,1
+user_1016,Group B,Mobile Hotspot,Older Personal,119,66,18,3,1
+user_1017,Group B,Public Wi-Fi,Shared/Public,282,82,19,7,1
+user_1018,Group A,High-Speed Home,Modern Personal,20,1,5,3,0
+user_1019,Group A,Mobile Hotspot,Modern Personal,186,12,8,4,1
+user_1020,Group A,High-Speed Home,Modern Personal,42,4,5,7,0
+user_1021,Group A,High-Speed Home,Modern Personal,22,18,9,2,0
+user_1022,Group A,High-Speed Home,Modern Personal,47,18,9,3,0
+user_1023,Group B,Mobile Hotspot,Older Personal,195,65,14,8,0
+user_1024,Group B,Mobile Hotspot,Shared/Public,184,91,63,8,1
+user_1025,Group A,High-Speed Home,Shared/Public,12,98,56,4,1
+user_1026,Group A,High-Speed Home,Modern Personal,14,8,3,1,0
+user_1027,Group B,Mobile Hotspot,Shared/Public,94,118,30,7,1
+user_1028,Group B,Public Wi-Fi,Shared/Public,228,110,61,7,1
+user_1029,Group B,Public Wi-Fi,Shared/Public,172,84,13,6,1
+user_1030,Group B,Mobile Hotspot,Older Personal,82,63,26,11,1
+user_1031,Group A,High-Speed Home,Modern Personal,57,9,4,4,0
+user_1032,Group A,High-Speed Home,Modern Personal,38,13,7,1,0
+user_1033,Group A,Standard Home,Modern Personal,87,2,4,8,0
+user_1034,Group A,Standard Home,Modern Personal,73,20,15,4,0
+user_1035,Group A,High-Speed Home,Modern Personal,20,23,7,4,0
+user_1036,Group B,Public Wi-Fi,Shared/Public,125,94,22,7,1
+user_1037,Group B,Mobile Hotspot,Shared/Public,171,116,41,6,1
+user_1038,Group A,Standard Home,Modern Personal,54,1,11,7,0
+user_1039,Group A,High-Speed Home,Modern Personal,40,1,9,2,0
+user_1040,Group A,Standard Home,Older Personal,88,56,31,7,1
+user_1041,Group A,High-Speed Home,Modern Personal,34,2,4,9,0
+user_1042,Group A,Public Wi-Fi,Older Personal,332,53,26,3,1
+user_1043,Group A,High-Speed Home,Older Personal,35,61,23,3,1
+user_1044,Group A,High-Speed Home,Modern Personal,41,23,7,7,0
+user_1045,Group A,Mobile Hotspot,Shared/Public,59,82,35,6,1
+user_1046,Group B,Mobile Hotspot,Shared/Public,139,83,48,10,1
+user_1047,Group A,High-Speed Home,Older Personal,18,28,22,3,0
+user_1048,Group A,Public Wi-Fi,Modern Personal,235,2,11,4,1
+user_1049,Group A,Standard Home,Older Personal,37,62,27,4,1
+user_1050,Group B,Public Wi-Fi,Shared/Public,282,79,45,4,1
+user_1051,Group A,High-Speed Home,Modern Personal,24,1,13,4,0
+user_1052,Group B,Mobile Hotspot,Older Personal,182,31,25,13,1
+user_1053,Group A,High-Speed Home,Older Personal,6,44,12,8,0
+user_1054,Group A,Standard Home,Modern Personal,38,17,5,8,0
+user_1055,Group A,Standard Home,Modern Personal,77,9,4,6,0
+user_1056,Group A,High-Speed Home,Modern Personal,20,4,3,5,0
+user_1057,Group A,High-Speed Home,Modern Personal,33,5,5,9,0
+user_1058,Group A,Mobile Hotspot,Modern Personal,149,23,7,8,1
+user_1059,Group B,Public Wi-Fi,Older Personal,216,60,11,9,1
+user_1060,Group B,Public Wi-Fi,Shared/Public,330,71,73,9,1
+user_1061,Group A,High-Speed Home,Modern Personal,22,1,5,8,0
+user_1062,Group A,High-Speed Home,Modern Personal,31,16,15,4,0
+user_1063,Group A,High-Speed Home,Modern Personal,14,2,5,2,0
+user_1064,Group A,High-Speed Home,Modern Personal,35,13,6,2,0
+user_1065,Group B,Public Wi-Fi,Older Personal,284,62,22,4,1
+user_1066,Group A,Standard Home,Modern Personal,55,6,12,4,0
+user_1067,Group B,Public Wi-Fi,Shared/Public,326,114,41,3,1
+user_1068,Group A,Standard Home,Modern Personal,93,15,5,3,0
+user_1069,Group B,Public Wi-Fi,Shared/Public,398,61,53,3,1
+user_1070,Group A,High-Speed Home,Modern Personal,19,12,9,2,0
+user_1071,Group A,High-Speed Home,Modern Personal,18,16,5,4,0
+user_1072,Group A,High-Speed Home,Modern Personal,44,23,6,1,0
+user_1073,Group B,Mobile Hotspot,Shared/Public,28,81,57,10,1
+user_1074,Group B,Mobile Hotspot,Shared/Public,130,78,24,4,1
+user_1075,Group A,High-Speed Home,Modern Personal,36,23,10,8,1
+user_1076,Group B,Public Wi-Fi,Shared/Public,302,87,52,6,1
+user_1077,Group B,Public Wi-Fi,Older Personal,257,47,8,7,1
+user_1078,Group A,High-Speed Home,Modern Personal,33,2,7,7,0
+user_1079,Group B,Mobile Hotspot,Older Personal,104,57,14,3,1
+user_1080,Group A,Mobile Hotspot,Modern Personal,139,3,10,5,1
+user_1081,Group A,High-Speed Home,Older Personal,24,57,9,5,0
+user_1082,Group A,High-Speed Home,Shared/Public,25,98,41,3,1
+user_1083,Group A,High-Speed Home,Modern Personal,36,12,1,4,1
+user_1084,Group B,Mobile Hotspot,Older Personal,235,36,27,9,1
+user_1085,Group B,Public Wi-Fi,Shared/Public,233,60,47,7,1
+user_1086,Group A,High-Speed Home,Modern Personal,35,11,8,3,0
+user_1087,Group B,Mobile Hotspot,Older Personal,148,68,13,9,1
+user_1088,Group A,High-Speed Home,Modern Personal,16,2,8,2,0
+user_1089,Group B,Mobile Hotspot,Shared/Public,128,68,52,4,1
+user_1090,Group A,Standard Home,Older Personal,51,25,32,2,1
+user_1091,Group A,High-Speed Home,Shared/Public,26,107,31,6,1
+user_1092,Group B,Mobile Hotspot,Shared/Public,151,73,41,13,1
+user_1093,Group A,High-Speed Home,Modern Personal,19,9,6,4,0
+user_1094,Group A,High-Speed Home,Modern Personal,21,18,4,7,0
+user_1095,Group B,Mobile Hotspot,Older Personal,169,68,19,4,0
+user_1096,Group A,Standard Home,Shared/Public,57,64,42,8,1
+user_1097,Group A,Standard Home,Shared/Public,89,112,51,5,1
+user_1098,Group A,High-Speed Home,Shared/Public,33,111,56,3,1
+user_1099,Group A,Standard Home,Modern Personal,31,10,5,6,0
+user_1100,Group B,Mobile Hotspot,Older Personal,143,41,8,7,1
+user_1101,Group B,Mobile Hotspot,Shared/Public,66,62,27,3,1
+user_1102,Group A,High-Speed Home,Modern Personal,20,10,6,2,0
+user_1103,Group A,Standard Home,Modern Personal,64,8,7,5,0
+user_1104,Group A,High-Speed Home,Shared/Public,25,66,51,9,1
+user_1105,Group B,Public Wi-Fi,Older Personal,302,29,30,4,1
+user_1106,Group A,Standard Home,Modern Personal,85,8,9,6,0
+user_1107,Group B,Mobile Hotspot,Shared/Public,169,81,41,9,1
+user_1108,Group B,Mobile Hotspot,Older Personal,183,28,12,7,1
+user_1109,Group A,High-Speed Home,Modern Personal,39,11,9,8,0
+user_1110,Group A,High-Speed Home,Modern Personal,5,14,1,4,0
+user_1111,Group A,High-Speed Home,Shared/Public,52,99,35,6,1
+user_1112,Group A,High-Speed Home,Modern Personal,37,8,9,5,0
+user_1113,Group A,High-Speed Home,Modern Personal,36,13,7,8,0
+user_1114,Group A,High-Speed Home,Modern Personal,35,20,9,4,0
+user_1115,Group B,Mobile Hotspot,Shared/Public,125,74,51,5,1
+user_1116,Group A,Standard Home,Modern Personal,90,1,8,4,0
+user_1117,Group A,High-Speed Home,Modern Personal,38,7,8,4,1
+user_1118,Group A,High-Speed Home,Older Personal,19,66,20,5,1
+user_1119,Group B,Public Wi-Fi,Shared/Public,250,95,28,7,1
+user_1120,Group A,High-Speed Home,Modern Personal,27,10,4,5,0
+user_1121,Group A,Standard Home,Older Personal,89,69,20,7,1
+user_1122,Group A,High-Speed Home,Older Personal,19,51,14,5,1
+user_1123,Group A,Standard Home,Older Personal,44,48,35,6,1
+user_1124,Group A,Standard Home,Modern Personal,63,7,4,11,1
+user_1125,Group B,Public Wi-Fi,Shared/Public,240,60,35,6,1
+user_1126,Group A,High-Speed Home,Older Personal,35,62,14,3,1
+user_1127,Group A,High-Speed Home,Modern Personal,29,7,5,4,0
+user_1128,Group A,Standard Home,Modern Personal,66,6,9,6,0
+user_1129,Group A,Standard Home,Modern Personal,57,6,10,5,0
+user_1130,Group A,High-Speed Home,Older Personal,31,64,28,6,1
+user_1131,Group A,Public Wi-Fi,Older Personal,371,60,33,9,1
+user_1132,Group B,Public Wi-Fi,Older Personal,284,34,19,5,1
+user_1133,Group A,Standard Home,Older Personal,52,68,10,9,1
+user_1134,Group A,Standard Home,Older Personal,62,46,30,6,0
+user_1135,Group A,High-Speed Home,Modern Personal,39,4,8,3,0
+user_1136,Group A,High-Speed Home,Modern Personal,34,8,4,6,0
+user_1137,Group A,Mobile Hotspot,Older Personal,217,29,20,7,1
+user_1138,Group A,Standard Home,Older Personal,89,25,15,6,0
+user_1139,Group B,Public Wi-Fi,Shared/Public,250,101,35,8,1
+user_1140,Group B,Mobile Hotspot,Older Personal,177,43,18,7,1
+user_1141,Group A,High-Speed Home,Modern Personal,34,20,12,5,0
+user_1142,Group B,Mobile Hotspot,Shared/Public,187,79,40,5,1
+user_1143,Group B,Public Wi-Fi,Shared/Public,163,95,31,4,1
+user_1144,Group B,Mobile Hotspot,Older Personal,155,29,12,7,1
+user_1145,Group B,Mobile Hotspot,Shared/Public,143,106,71,4,1
+user_1146,Group A,High-Speed Home,Older Personal,15,53,17,5,1
+user_1147,Group B,Public Wi-Fi,Older Personal,268,39,20,9,1
+user_1148,Group A,Standard Home,Modern Personal,69,4,11,3,0
+user_1149,Group A,High-Speed Home,Modern Personal,40,17,7,5,0
+user_1150,Group B,Public Wi-Fi,Shared/Public,315,111,66,3,1
+user_1151,Group B,Mobile Hotspot,Older Personal,126,30,14,10,0
+user_1152,Group A,High-Speed Home,Older Personal,27,39,8,3,0
+user_1153,Group B,Public Wi-Fi,Shared/Public,196,92,49,11,1
+user_1154,Group A,Standard Home,Modern Personal,78,1,8,3,0
+user_1155,Group A,Standard Home,Modern Personal,72,13,9,6,0
+user_1156,Group A,Standard Home,Older Personal,58,25,18,7,0
+user_1157,Group A,Public Wi-Fi,Older Personal,290,51,22,4,1
+user_1158,Group A,High-Speed Home,Modern Personal,30,3,11,4,0
+user_1159,Group A,High-Speed Home,Older Personal,28,39,32,7,1
+user_1160,Group A,Mobile Hotspot,Older Personal,164,30,28,8,1
+user_1161,Group A,Standard Home,Older Personal,57,28,31,7,1
+user_1162,Group A,Standard Home,Modern Personal,62,20,6,3,0
+user_1163,Group B,Public Wi-Fi,Shared/Public,227,63,36,6,1
+user_1164,Group A,High-Speed Home,Modern Personal,25,18,4,3,0
+user_1165,Group A,High-Speed Home,Older Personal,33,39,36,5,1
+user_1166,Group A,High-Speed Home,Older Personal,41,36,17,3,0
+user_1167,Group A,High-Speed Home,Modern Personal,35,16,6,6,0
+user_1168,Group B,Public Wi-Fi,Older Personal,269,55,21,5,1
+user_1169,Group B,Mobile Hotspot,Shared/Public,86,86,42,5,1
+user_1170,Group A,High-Speed Home,Modern Personal,27,19,7,5,0
+user_1171,Group A,Standard Home,Older Personal,51,54,30,3,1
+user_1172,Group A,High-Speed Home,Modern Personal,32,16,6,2,0
+user_1173,Group B,Mobile Hotspot,Shared/Public,238,104,48,6,1
+user_1174,Group A,High-Speed Home,Modern Personal,26,5,8,4,1
+user_1175,Group A,High-Speed Home,Modern Personal,5,12,8,2,1
+user_1176,Group A,High-Speed Home,Older Personal,29,42,20,5,1
+user_1177,Group A,High-Speed Home,Older Personal,33,58,16,5,1
+user_1178,Group B,Mobile Hotspot,Older Personal,136,51,27,7,1
+user_1179,Group A,High-Speed Home,Older Personal,24,48,24,2,0
+user_1180,Group A,Mobile Hotspot,Modern Personal,74,8,4,4,0
+user_1181,Group A,High-Speed Home,Older Personal,27,58,28,5,1
+user_1182,Group A,High-Speed Home,Modern Personal,35,1,3,5,0
+user_1183,Group A,High-Speed Home,Older Personal,39,27,24,6,0
+user_1184,Group A,Mobile Hotspot,Modern Personal,150,19,10,4,1
+user_1185,Group A,High-Speed Home,Older Personal,36,62,20,3,1
+user_1186,Group A,High-Speed Home,Modern Personal,33,9,5,6,0
+user_1187,Group A,High-Speed Home,Modern Personal,31,5,9,9,0
+user_1188,Group A,High-Speed Home,Older Personal,27,69,17,5,1
+user_1189,Group B,Public Wi-Fi,Shared/Public,364,67,43,5,1
+user_1190,Group A,Standard Home,Older Personal,43,71,15,7,1
+user_1191,Group A,Mobile Hotspot,Modern Personal,145,2,4,5,1
+user_1192,Group B,Mobile Hotspot,Shared/Public,155,85,40,12,1
+user_1193,Group B,Public Wi-Fi,Shared/Public,352,83,27,4,1
+user_1194,Group A,High-Speed Home,Modern Personal,31,7,8,6,0
+user_1195,Group A,Standard Home,Modern Personal,79,18,11,10,0
+user_1196,Group B,Public Wi-Fi,Older Personal,200,40,9,4,1
+user_1197,Group B,Public Wi-Fi,Shared/Public,289,104,59,9,1
+user_1198,Group A,Standard Home,Older Personal,67,57,24,4,0
+user_1199,Group A,Standard Home,Older Personal,77,50,19,7,1
+user_1200,Group B,Mobile Hotspot,Shared/Public,170,85,56,4,0
+user_1201,Group A,Mobile Hotspot,Modern Personal,108,13,1,6,1
+user_1202,Group A,Standard Home,Modern Personal,102,1,6,8,1
+user_1203,Group A,Standard Home,Modern Personal,58,8,3,3,0
+user_1204,Group A,High-Speed Home,Modern Personal,33,22,8,7,0
+user_1205,Group B,Mobile Hotspot,Shared/Public,177,112,50,4,1
+user_1206,Group B,Public Wi-Fi,Older Personal,351,31,8,2,1
+user_1207,Group B,Public Wi-Fi,Shared/Public,79,67,53,9,1
+user_1208,Group A,High-Speed Home,Modern Personal,27,19,8,3,0
+user_1209,Group B,Public Wi-Fi,Older Personal,166,66,18,4,1
+user_1210,Group A,High-Speed Home,Modern Personal,42,3,4,6,0
+user_1211,Group B,Public Wi-Fi,Shared/Public,290,94,38,6,1
+user_1212,Group B,Mobile Hotspot,Shared/Public,62,82,45,7,1
+user_1213,Group A,Standard Home,Modern Personal,42,16,11,3,0
+user_1214,Group A,Standard Home,Modern Personal,59,7,9,2,0
+user_1215,Group B,Public Wi-Fi,Shared/Public,252,70,53,5,1
+user_1216,Group A,Mobile Hotspot,Modern Personal,209,17,5,7,1
+user_1217,Group A,High-Speed Home,Older Personal,11,59,24,2,1
+user_1218,Group B,Mobile Hotspot,Older Personal,65,71,22,6,1
+user_1219,Group A,High-Speed Home,Modern Personal,22,4,5,6,0
+user_1220,Group A,High-Speed Home,Modern Personal,25,1,8,3,0
+user_1221,Group B,Standard Home,Shared/Public,87,109,62,4,1
+user_1222,Group A,Standard Home,Modern Personal,79,15,11,5,0
+user_1223,Group B,Mobile Hotspot,Older Personal,154,34,22,9,1
+user_1224,Group B,Mobile Hotspot,Older Personal,180,54,22,6,1
+user_1225,Group A,High-Speed Home,Older Personal,39,45,22,3,0
+user_1226,Group A,Mobile Hotspot,Modern Personal,189,21,11,6,1
+user_1227,Group A,High-Speed Home,Modern Personal,37,23,8,3,0
+user_1228,Group B,Public Wi-Fi,Shared/Public,173,110,43,7,1
+user_1229,Group B,Public Wi-Fi,Shared/Public,300,104,40,7,1
+user_1230,Group A,Standard Home,Modern Personal,91,1,6,3,0
+user_1231,Group A,High-Speed Home,Older Personal,37,69,12,5,1
+user_1232,Group A,High-Speed Home,Older Personal,35,26,12,5,0
+user_1233,Group A,High-Speed Home,Modern Personal,25,17,10,4,0
+user_1234,Group A,High-Speed Home,Modern Personal,38,19,11,4,0
+user_1235,Group B,Mobile Hotspot,Shared/Public,170,62,26,9,1
+user_1236,Group A,High-Speed Home,Modern Personal,21,13,9,6,0
+user_1237,Group A,High-Speed Home,Modern Personal,25,19,7,4,0
+user_1238,Group B,Mobile Hotspot,Shared/Public,70,99,55,7,1
+user_1239,Group A,Standard Home,Modern Personal,28,7,10,4,0
+user_1240,Group A,Standard Home,Modern Personal,63,18,10,9,0
+user_1241,Group A,High-Speed Home,Modern Personal,22,11,7,2,0
+user_1242,Group A,High-Speed Home,Modern Personal,30,17,5,2,0
+user_1243,Group B,Public Wi-Fi,Older Personal,174,35,45,13,0
+user_1244,Group A,Standard Home,Modern Personal,65,23,8,5,0
+user_1245,Group A,High-Speed Home,Modern Personal,5,15,10,7,0
+user_1246,Group A,High-Speed Home,Older Personal,38,48,6,6,0
+user_1247,Group B,Public Wi-Fi,Shared/Public,204,112,40,4,1
+user_1248,Group B,Public Wi-Fi,Shared/Public,284,103,47,6,1
+user_1249,Group A,Standard Home,Modern Personal,58,17,8,3,0
+user_1250,Group A,High-Speed Home,Modern Personal,24,2,7,8,0
+user_1251,Group A,High-Speed Home,Modern Personal,17,13,10,4,0
+user_1252,Group B,Public Wi-Fi,Older Personal,215,27,27,5,1
+user_1253,Group A,High-Speed Home,Shared/Public,16,108,42,4,1
+user_1254,Group A,Mobile Hotspot,Modern Personal,153,18,1,4,1
+user_1255,Group A,High-Speed Home,Modern Personal,26,17,9,5,0
+user_1256,Group A,High-Speed Home,Modern Personal,29,23,5,10,0
+user_1257,Group B,Mobile Hotspot,Older Personal,202,31,15,3,1
+user_1258,Group A,Public Wi-Fi,Modern Personal,183,18,7,8,1
+user_1259,Group A,High-Speed Home,Modern Personal,14,7,12,5,0
+user_1260,Group B,Public Wi-Fi,Shared/Public,357,118,15,5,1
+user_1261,Group A,Mobile Hotspot,Shared/Public,159,101,49,3,1
+user_1262,Group B,Mobile Hotspot,Older Personal,141,62,16,8,1
+user_1263,Group A,High-Speed Home,Modern Personal,30,3,1,5,0
+user_1264,Group A,High-Speed Home,Modern Personal,31,7,3,2,0
+user_1265,Group A,High-Speed Home,Modern Personal,33,5,10,6,0
+user_1266,Group A,High-Speed Home,Modern Personal,33,23,4,9,0
+user_1267,Group B,Public Wi-Fi,Shared/Public,383,119,36,6,1
+user_1268,Group B,Public Wi-Fi,Shared/Public,211,64,34,6,1
+user_1269,Group A,Standard Home,Modern Personal,49,18,8,6,0
+user_1270,Group A,High-Speed Home,Modern Personal,26,15,10,6,0
+user_1271,Group B,Public Wi-Fi,Shared/Public,297,100,44,7,1
+user_1272,Group A,Standard Home,Modern Personal,67,15,6,5,0
+user_1273,Group B,Standard Home,Shared/Public,58,64,62,5,1
+user_1274,Group B,Public Wi-Fi,Older Personal,336,37,28,8,1
+user_1275,Group A,High-Speed Home,Older Personal,38,61,19,4,1
+user_1276,Group A,High-Speed Home,Modern Personal,36,21,5,4,0
+user_1277,Group A,High-Speed Home,Modern Personal,16,17,4,5,0
+user_1278,Group A,High-Speed Home,Older Personal,28,36,19,6,0
+user_1279,Group A,Standard Home,Modern Personal,116,17,6,3,1
+user_1280,Group B,Mobile Hotspot,Shared/Public,226,88,57,10,1
+user_1281,Group A,High-Speed Home,Older Personal,26,44,29,3,1
+user_1282,Group A,High-Speed Home,Modern Personal,28,1,9,9,0
+user_1283,Group B,Mobile Hotspot,Older Personal,196,32,31,9,1
+user_1284,Group B,Mobile Hotspot,Shared/Public,100,80,42,9,1
+user_1285,Group A,High-Speed Home,Older Personal,32,25,15,3,0
+user_1286,Group B,Public Wi-Fi,Older Personal,193,60,13,8,1
+user_1287,Group A,High-Speed Home,Modern Personal,32,18,5,7,0
+user_1288,Group A,High-Speed Home,Older Personal,23,66,14,6,1
+user_1289,Group B,Mobile Hotspot,Older Personal,92,29,17,7,0
+user_1290,Group B,Public Wi-Fi,Modern Personal,119,13,9,5,1
+user_1291,Group B,Public Wi-Fi,Shared/Public,382,77,31,6,1
+user_1292,Group A,Standard Home,Older Personal,57,54,17,2,0
+user_1293,Group A,High-Speed Home,Modern Personal,39,8,6,6,0
+user_1294,Group A,High-Speed Home,Modern Personal,32,22,5,5,1
+user_1295,Group B,Mobile Hotspot,Older Personal,166,56,11,4,1
+user_1296,Group B,Public Wi-Fi,Shared/Public,217,64,41,4,1
+user_1297,Group B,Public Wi-Fi,Shared/Public,236,101,57,6,1
+user_1298,Group B,Mobile Hotspot,Shared/Public,150,111,42,8,1
+user_1299,Group B,Public Wi-Fi,Older Personal,178,71,20,9,1
+user_1300,Group B,Mobile Hotspot,Shared/Public,178,96,53,6,1
+user_1301,Group B,High-Speed Home,Older Personal,20,38,26,5,0
+user_1302,Group A,High-Speed Home,Modern Personal,18,19,3,12,1
+user_1303,Group A,Standard Home,Modern Personal,64,7,3,5,0
+user_1304,Group A,High-Speed Home,Modern Personal,26,1,8,6,0
+user_1305,Group A,High-Speed Home,Modern Personal,48,6,9,9,0
+user_1306,Group A,High-Speed Home,Older Personal,43,61,29,4,1
+user_1307,Group B,Public Wi-Fi,Modern Personal,293,17,7,5,0
+user_1308,Group B,Mobile Hotspot,Shared/Public,194,107,73,7,1
+user_1309,Group A,Mobile Hotspot,Modern Personal,148,9,6,7,1
+user_1310,Group A,High-Speed Home,Older Personal,31,30,35,1,1
+user_1311,Group A,High-Speed Home,Modern Personal,34,18,5,5,1
+user_1312,Group A,High-Speed Home,Modern Personal,21,15,7,4,0
+user_1313,Group A,Standard Home,Modern Personal,69,9,6,11,1
+user_1314,Group A,Standard Home,Older Personal,71,25,29,4,0
+user_1315,Group A,High-Speed Home,Modern Personal,12,18,8,5,0
+user_1316,Group A,Standard Home,Modern Personal,76,5,4,3,0
+user_1317,Group B,Public Wi-Fi,Older Personal,321,30,10,7,1
+user_1318,Group A,High-Speed Home,Older Personal,31,27,23,5,0
+user_1319,Group A,Standard Home,Older Personal,70,60,26,4,0
+user_1320,Group A,Standard Home,Modern Personal,96,1,7,8,0
+user_1321,Group A,High-Speed Home,Older Personal,56,55,15,11,1
+user_1322,Group A,High-Speed Home,Modern Personal,28,14,7,4,0
+user_1323,Group A,Standard Home,Modern Personal,61,20,1,5,0
+user_1324,Group A,Standard Home,Modern Personal,52,12,3,5,0
+user_1325,Group A,Standard Home,Modern Personal,71,7,6,4,0
+user_1326,Group B,Public Wi-Fi,Shared/Public,279,85,35,9,1
+user_1327,Group B,Mobile Hotspot,Older Personal,73,47,32,6,1
+user_1328,Group A,High-Speed Home,Shared/Public,32,101,43,6,1
+user_1329,Group A,High-Speed Home,Modern Personal,30,14,5,6,0
+user_1330,Group A,Standard Home,Modern Personal,71,3,2,6,0
+user_1331,Group B,Public Wi-Fi,Older Personal,226,41,5,8,1
+user_1332,Group A,Standard Home,Modern Personal,26,6,7,4,0
+user_1333,Group A,High-Speed Home,Older Personal,20,45,26,4,1
+user_1334,Group B,Public Wi-Fi,Shared/Public,120,93,19,4,1
+user_1335,Group B,Mobile Hotspot,Shared/Public,120,64,27,11,1
+user_1336,Group A,High-Speed Home,Modern Personal,46,5,3,6,0
+user_1337,Group B,Public Wi-Fi,Shared/Public,259,79,44,2,1
+user_1338,Group B,High-Speed Home,Older Personal,37,33,19,10,0
+user_1339,Group B,Public Wi-Fi,Shared/Public,273,98,65,9,1
+user_1340,Group B,Public Wi-Fi,Shared/Public,302,90,52,7,1
+user_1341,Group B,Mobile Hotspot,Older Personal,167,45,16,6,1
+user_1342,Group A,High-Speed Home,Older Personal,36,67,13,2,1
+user_1343,Group A,Standard Home,Modern Personal,66,1,5,9,0
+user_1344,Group B,Public Wi-Fi,Modern Personal,337,10,2,10,1
+user_1345,Group A,Standard Home,Modern Personal,79,8,5,7,0
+user_1346,Group B,Public Wi-Fi,Older Personal,213,35,28,7,1
+user_1347,Group A,High-Speed Home,Older Personal,30,28,15,5,0
+user_1348,Group A,Standard Home,Modern Personal,72,6,8,11,1
+user_1349,Group B,Mobile Hotspot,Older Personal,93,60,15,7,1
+user_1350,Group B,Mobile Hotspot,Older Personal,213,45,19,8,0
+user_1351,Group A,High-Speed Home,Modern Personal,14,13,8,7,0
+user_1352,Group A,Standard Home,Modern Personal,73,5,6,7,0
+user_1353,Group A,Standard Home,Modern Personal,58,8,6,2,0
+user_1354,Group A,High-Speed Home,Modern Personal,45,14,6,7,0
+user_1355,Group A,High-Speed Home,Modern Personal,37,23,9,3,0
+user_1356,Group A,Standard Home,Modern Personal,38,1,5,4,0
+user_1357,Group B,Mobile Hotspot,Shared/Public,77,100,27,9,1
+user_1358,Group A,High-Speed Home,Modern Personal,9,6,6,3,0
+user_1359,Group B,Mobile Hotspot,Shared/Public,183,82,27,7,1
+user_1360,Group B,Public Wi-Fi,Shared/Public,235,106,38,5,0
+user_1361,Group A,High-Speed Home,Modern Personal,14,22,7,5,0
+user_1362,Group A,Standard Home,Modern Personal,90,16,3,8,0
+user_1363,Group A,High-Speed Home,Modern Personal,47,13,5,6,0
+user_1364,Group A,Standard Home,Modern Personal,82,6,1,2,0
+user_1365,Group A,Standard Home,Older Personal,46,59,17,4,1
+user_1366,Group A,Standard Home,Modern Personal,71,6,2,8,0
+user_1367,Group B,Mobile Hotspot,Shared/Public,223,115,70,7,1
+user_1368,Group A,High-Speed Home,Older Personal,25,24,28,5,0
+user_1369,Group A,High-Speed Home,Older Personal,20,71,16,4,1
+user_1370,Group A,Standard Home,Older Personal,55,63,15,6,1
+user_1371,Group B,Mobile Hotspot,Shared/Public,235,82,31,8,1
+user_1372,Group A,High-Speed Home,Modern Personal,25,19,8,8,0
+user_1373,Group B,Public Wi-Fi,Shared/Public,305,85,28,8,1
+user_1374,Group B,Mobile Hotspot,Shared/Public,202,88,59,10,1
+user_1375,Group A,High-Speed Home,Modern Personal,30,14,6,2,1
+user_1376,Group A,Standard Home,Modern Personal,59,13,9,2,0
+user_1377,Group A,High-Speed Home,Older Personal,12,47,11,5,0
+user_1378,Group B,Public Wi-Fi,Older Personal,370,46,22,5,1
+user_1379,Group A,Standard Home,Modern Personal,65,20,5,2,0
+user_1380,Group A,High-Speed Home,Modern Personal,32,14,7,3,0
+user_1381,Group B,Public Wi-Fi,Shared/Public,256,104,34,6,1
+user_1382,Group B,Mobile Hotspot,Shared/Public,114,62,42,8,1
+user_1383,Group A,High-Speed Home,Modern Personal,27,1,9,3,0
+user_1384,Group A,High-Speed Home,Modern Personal,21,4,11,6,0
+user_1385,Group A,Standard Home,Modern Personal,62,17,6,3,0
+user_1386,Group B,Mobile Hotspot,Older Personal,120,63,13,6,1
+user_1387,Group A,Standard Home,Older Personal,72,48,12,6,0
+user_1388,Group B,Public Wi-Fi,Shared/Public,154,105,34,9,0
+user_1389,Group A,High-Speed Home,Older Personal,18,49,12,3,1
+user_1390,Group B,Public Wi-Fi,Older Personal,124,46,22,6,1
+user_1391,Group B,Public Wi-Fi,Shared/Public,295,69,77,5,1
+user_1392,Group A,High-Speed Home,Modern Personal,31,14,7,9,0
+user_1393,Group A,High-Speed Home,Modern Personal,30,12,11,3,0
+user_1394,Group A,High-Speed Home,Older Personal,22,71,24,5,1
+user_1395,Group A,High-Speed Home,Modern Personal,42,17,6,6,0
+user_1396,Group A,High-Speed Home,Modern Personal,33,22,11,3,0
+user_1397,Group B,Mobile Hotspot,Older Personal,130,56,25,3,1
+user_1398,Group B,Public Wi-Fi,Older Personal,333,28,21,4,1
+user_1399,Group B,Mobile Hotspot,Shared/Public,198,73,48,6,1
+user_1400,Group A,High-Speed Home,Modern Personal,35,3,9,9,0
+user_1401,Group A,High-Speed Home,Modern Personal,27,21,7,2,0
+user_1402,Group A,High-Speed Home,Modern Personal,33,1,9,5,0
+user_1403,Group A,High-Speed Home,Modern Personal,20,18,6,3,1
+user_1404,Group A,Standard Home,Modern Personal,111,17,4,4,1
+user_1405,Group A,High-Speed Home,Modern Personal,34,4,2,5,0
+user_1406,Group B,Public Wi-Fi,Shared/Public,109,110,43,6,1
+user_1407,Group B,Public Wi-Fi,Shared/Public,101,84,32,5,1
+user_1408,Group B,Public Wi-Fi,Older Personal,208,39,27,5,1
+user_1409,Group A,Standard Home,Modern Personal,62,4,11,7,0
+user_1410,Group B,Public Wi-Fi,Shared/Public,212,119,49,10,1
+user_1411,Group A,Standard Home,Modern Personal,49,2,10,3,0
+user_1412,Group A,High-Speed Home,Modern Personal,35,9,8,3,0
+user_1413,Group A,Standard Home,Modern Personal,77,8,8,1,0
+user_1414,Group A,High-Speed Home,Older Personal,12,55,16,3,1
+user_1415,Group A,Standard Home,Modern Personal,95,7,4,6,0
+user_1416,Group A,Mobile Hotspot,Modern Personal,206,22,7,3,1
+user_1417,Group A,High-Speed Home,Modern Personal,22,3,7,7,0
+user_1418,Group A,High-Speed Home,Modern Personal,35,19,6,6,0
+user_1419,Group B,Public Wi-Fi,Shared/Public,168,61,57,11,1
+user_1420,Group A,High-Speed Home,Modern Personal,5,7,6,4,0
+user_1421,Group A,Standard Home,Older Personal,99,43,22,6,0
+user_1422,Group B,Mobile Hotspot,Shared/Public,110,100,34,9,1
+user_1423,Group A,Standard Home,Modern Personal,44,22,9,5,0
+user_1424,Group A,High-Speed Home,Modern Personal,28,7,8,1,0
+user_1425,Group A,Standard Home,Modern Personal,30,23,2,14,1
+user_1426,Group A,High-Speed Home,Modern Personal,36,15,7,6,0
+user_1427,Group B,Standard Home,Older Personal,63,29,17,8,0
+user_1428,Group B,Public Wi-Fi,Older Personal,411,49,18,3,1
+user_1429,Group A,Standard Home,Modern Personal,29,17,7,4,0
+user_1430,Group A,High-Speed Home,Modern Personal,22,21,5,2,0
+user_1431,Group A,High-Speed Home,Modern Personal,18,15,3,2,1
+user_1432,Group A,Mobile Hotspot,Modern Personal,70,5,11,6,0
+user_1433,Group A,High-Speed Home,Modern Personal,5,20,5,8,0
+user_1434,Group A,Public Wi-Fi,Modern Personal,356,12,8,9,1
+user_1435,Group A,Mobile Hotspot,Older Personal,104,39,29,2,1
+user_1436,Group A,Standard Home,Modern Personal,86,5,9,4,1
+user_1437,Group A,Mobile Hotspot,Older Personal,141,68,26,1,1
+user_1438,Group B,Public Wi-Fi,Shared/Public,203,66,23,5,1
+user_1439,Group A,Standard Home,Modern Personal,36,14,10,5,0
+user_1440,Group B,Mobile Hotspot,Older Personal,102,35,8,4,0
+user_1441,Group A,Standard Home,Modern Personal,70,23,1,5,0
+user_1442,Group A,High-Speed Home,Modern Personal,20,13,6,7,0
+user_1443,Group A,Standard Home,Shared/Public,68,117,42,4,1
+user_1444,Group A,Standard Home,Modern Personal,98,17,4,6,0
+user_1445,Group A,High-Speed Home,Older Personal,25,38,5,2,0
+user_1446,Group A,High-Speed Home,Modern Personal,27,15,8,6,0
+user_1447,Group A,Public Wi-Fi,Modern Personal,288,8,4,10,1
+user_1448,Group A,Standard Home,Modern Personal,89,5,1,6,0
+user_1449,Group A,High-Speed Home,Older Personal,28,46,34,9,1
+user_1450,Group B,Standard Home,Older Personal,66,45,25,6,0
+user_1451,Group A,Standard Home,Modern Personal,72,14,4,5,0
+user_1452,Group B,Public Wi-Fi,Shared/Public,241,85,43,6,0
+user_1453,Group A,High-Speed Home,Modern Personal,32,18,6,6,1
+user_1454,Group A,High-Speed Home,Older Personal,32,51,13,6,1
+user_1455,Group B,Public Wi-Fi,Shared/Public,200,114,34,3,1
+user_1456,Group B,Mobile Hotspot,Shared/Public,210,97,57,4,1
+user_1457,Group A,Mobile Hotspot,Modern Personal,235,18,6,3,1
+user_1458,Group A,High-Speed Home,Modern Personal,36,5,1,3,0
+user_1459,Group A,Standard Home,Modern Personal,79,20,6,6,0
+user_1460,Group A,Mobile Hotspot,Shared/Public,107,88,52,10,1
+user_1461,Group B,Public Wi-Fi,Older Personal,227,45,20,4,1
+user_1462,Group A,Standard Home,Older Personal,62,55,17,5,1
+user_1463,Group A,Standard Home,Modern Personal,92,5,7,3,0
+user_1464,Group A,Public Wi-Fi,Modern Personal,236,20,5,2,1
+user_1465,Group B,Mobile Hotspot,Older Personal,156,28,12,7,1
+user_1466,Group A,Standard Home,Older Personal,83,47,27,1,1
+user_1467,Group A,High-Speed Home,Modern Personal,19,14,9,4,0
+user_1468,Group A,Standard Home,Modern Personal,103,16,7,2,1
+user_1469,Group A,High-Speed Home,Modern Personal,32,15,8,3,0
+user_1470,Group A,High-Speed Home,Older Personal,34,51,15,8,1
+user_1471,Group A,Public Wi-Fi,Modern Personal,136,15,5,6,1
+user_1472,Group A,Standard Home,Modern Personal,61,3,9,3,0
+user_1473,Group A,High-Speed Home,Shared/Public,21,61,42,5,1
+user_1474,Group A,High-Speed Home,Modern Personal,32,3,1,5,0
+user_1475,Group B,Public Wi-Fi,Older Personal,161,49,35,5,1
+user_1476,Group A,Standard Home,Modern Personal,44,14,6,5,0
+user_1477,Group B,Mobile Hotspot,Shared/Public,174,95,54,11,1
+user_1478,Group A,Standard Home,Modern Personal,72,1,10,4,0
+user_1479,Group A,Standard Home,Older Personal,43,56,7,8,1
+user_1480,Group A,High-Speed Home,Modern Personal,36,19,6,5,0
+user_1481,Group B,Mobile Hotspot,Older Personal,147,71,20,9,1
+user_1482,Group A,High-Speed Home,Shared/Public,28,101,30,5,1
+user_1483,Group A,Standard Home,Older Personal,77,24,22,5,0
+user_1484,Group B,Mobile Hotspot,Older Personal,59,56,13,9,1
+user_1485,Group A,Standard Home,Older Personal,76,39,16,1,0
+user_1486,Group A,High-Speed Home,Older Personal,16,33,26,4,0
+user_1487,Group B,Public Wi-Fi,Modern Personal,483,23,6,9,1
+user_1488,Group A,High-Speed Home,Older Personal,26,68,9,7,1
+user_1489,Group B,Mobile Hotspot,Shared/Public,140,89,53,7,1
+user_1490,Group A,High-Speed Home,Modern Personal,27,9,12,3,0
+user_1491,Group B,Mobile Hotspot,Shared/Public,100,72,50,7,1
+user_1492,Group A,High-Speed Home,Modern Personal,29,6,5,7,0
+user_1493,Group B,Public Wi-Fi,Older Personal,198,25,21,6,1
+user_1494,Group A,Standard Home,Modern Personal,23,16,8,8,0
+user_1495,Group B,Public Wi-Fi,Older Personal,195,54,20,5,1
+user_1496,Group A,High-Speed Home,Modern Personal,33,10,2,3,0
+user_1497,Group A,Standard Home,Older Personal,60,46,25,3,0
+user_1498,Group A,High-Speed Home,Modern Personal,20,2,10,5,0
+user_1499,Group A,High-Speed Home,Modern Personal,39,1,3,5,0
+user_1500,Group B,Public Wi-Fi,Older Personal,103,68,14,9,1
+user_1501,Group B,Public Wi-Fi,Shared/Public,157,93,67,8,1
+user_1502,Group A,Standard Home,Modern Personal,41,2,5,9,0
+user_1503,Group B,Mobile Hotspot,Older Personal,138,40,30,9,1
+user_1504,Group B,Public Wi-Fi,Shared/Public,321,99,45,8,1
+user_1505,Group A,Standard Home,Modern Personal,65,1,11,7,0
+user_1506,Group A,Mobile Hotspot,Modern Personal,208,13,6,6,1
+user_1507,Group A,Standard Home,Modern Personal,87,20,9,5,0
+user_1508,Group A,High-Speed Home,Modern Personal,19,8,8,8,0
+user_1509,Group B,Public Wi-Fi,Shared/Public,326,71,42,8,1
+user_1510,Group A,High-Speed Home,Modern Personal,38,5,4,8,0
+user_1511,Group A,Standard Home,Modern Personal,44,5,5,4,0
+user_1512,Group A,High-Speed Home,Older Personal,22,71,12,3,0
+user_1513,Group A,High-Speed Home,Older Personal,29,29,17,4,0
+user_1514,Group A,High-Speed Home,Modern Personal,36,1,9,8,0
+user_1515,Group A,Standard Home,Older Personal,96,47,33,3,1
+user_1516,Group A,High-Speed Home,Modern Personal,32,8,6,9,0
+user_1517,Group B,Public Wi-Fi,Older Personal,454,71,16,8,1
+user_1518,Group B,High-Speed Home,Older Personal,18,45,24,5,0
+user_1519,Group A,Standard Home,Modern Personal,51,21,5,6,0
+user_1520,Group A,High-Speed Home,Older Personal,45,31,21,7,1
+user_1521,Group B,Public Wi-Fi,Older Personal,418,68,19,5,1
+user_1522,Group A,Standard Home,Modern Personal,82,20,8,3,0
+user_1523,Group A,High-Speed Home,Modern Personal,5,2,6,5,0
+user_1524,Group A,Standard Home,Older Personal,61,58,10,8,1
+user_1525,Group A,High-Speed Home,Modern Personal,41,3,14,5,0
+user_1526,Group A,High-Speed Home,Modern Personal,41,7,12,6,1
+user_1527,Group A,Standard Home,Modern Personal,81,16,6,3,0
+user_1528,Group A,High-Speed Home,Modern Personal,50,10,6,3,0
+user_1529,Group B,Public Wi-Fi,Older Personal,190,34,18,5,1
+user_1530,Group A,High-Speed Home,Modern Personal,44,1,11,4,0
+user_1531,Group A,High-Speed Home,Modern Personal,35,13,7,5,1
+user_1532,Group B,Public Wi-Fi,Shared/Public,228,106,54,3,1
+user_1533,Group A,High-Speed Home,Modern Personal,14,9,5,5,0
+user_1534,Group A,High-Speed Home,Modern Personal,19,1,7,5,0
+user_1535,Group B,Mobile Hotspot,Older Personal,107,30,7,7,1
+user_1536,Group A,Standard Home,Modern Personal,78,18,5,7,0
+user_1537,Group A,High-Speed Home,Older Personal,53,71,14,2,1
+user_1538,Group A,High-Speed Home,Modern Personal,19,16,7,6,0
+user_1539,Group A,High-Speed Home,Shared/Public,30,87,23,6,0
+user_1540,Group A,High-Speed Home,Older Personal,28,57,15,10,1
+user_1541,Group A,High-Speed Home,Modern Personal,38,23,8,7,0
+user_1542,Group B,Mobile Hotspot,Older Personal,97,31,18,6,0
+user_1543,Group B,Public Wi-Fi,Shared/Public,320,84,37,10,1
+user_1544,Group A,High-Speed Home,Modern Personal,26,2,1,3,0
+user_1545,Group A,Mobile Hotspot,Modern Personal,165,20,9,6,1
+user_1546,Group A,Standard Home,Modern Personal,50,22,6,2,1
+user_1547,Group B,Public Wi-Fi,Older Personal,403,60,16,3,1
+user_1548,Group B,Mobile Hotspot,Shared/Public,257,90,45,9,1
+user_1549,Group A,High-Speed Home,Older Personal,22,47,9,4,0
+user_1550,Group B,Mobile Hotspot,Shared/Public,82,70,33,8,1
+user_1551,Group B,Public Wi-Fi,Shared/Public,312,112,31,6,1
+user_1552,Group A,High-Speed Home,Modern Personal,36,2,5,5,0
+user_1553,Group B,Public Wi-Fi,Older Personal,280,25,18,6,1
+user_1554,Group B,Mobile Hotspot,Older Personal,44,31,33,12,1
+user_1555,Group A,Standard Home,Modern Personal,73,14,3,5,0
+user_1556,Group A,Standard Home,Modern Personal,66,17,2,2,0
+user_1557,Group A,High-Speed Home,Modern Personal,33,14,6,4,0
+user_1558,Group A,High-Speed Home,Modern Personal,25,10,1,5,0
+user_1559,Group B,Public Wi-Fi,Shared/Public,121,74,48,9,1
+user_1560,Group B,Public Wi-Fi,Shared/Public,240,101,37,10,1
+user_1561,Group A,High-Speed Home,Older Personal,29,70,25,5,1
+user_1562,Group A,Standard Home,Modern Personal,60,23,11,2,0
+user_1563,Group B,Public Wi-Fi,Older Personal,216,56,19,6,1
+user_1564,Group A,High-Speed Home,Older Personal,11,62,36,3,1
+user_1565,Group A,Standard Home,Modern Personal,71,9,4,5,0
+user_1566,Group A,High-Speed Home,Older Personal,35,34,13,7,0
+user_1567,Group A,High-Speed Home,Modern Personal,22,15,12,8,0
+user_1568,Group B,Public Wi-Fi,Shared/Public,220,99,33,10,1
+user_1569,Group A,High-Speed Home,Modern Personal,15,9,8,8,0
+user_1570,Group A,Public Wi-Fi,Modern Personal,182,15,7,7,1
+user_1571,Group A,High-Speed Home,Modern Personal,17,7,7,8,1
+user_1572,Group A,Mobile Hotspot,Modern Personal,128,21,5,5,1
+user_1573,Group A,Standard Home,Older Personal,57,63,5,4,1
+user_1574,Group B,Public Wi-Fi,Older Personal,173,37,23,7,1
+user_1575,Group A,High-Speed Home,Older Personal,29,28,4,1,0
+user_1576,Group B,Mobile Hotspot,Shared/Public,32,63,43,6,1
+user_1577,Group B,Public Wi-Fi,Older Personal,324,49,16,8,1
+user_1578,Group B,Mobile Hotspot,Older Personal,70,43,31,8,1
+user_1579,Group B,Public Wi-Fi,Older Personal,300,67,24,7,1
+user_1580,Group B,Mobile Hotspot,Older Personal,153,67,29,9,1
+user_1581,Group A,Standard Home,Modern Personal,42,21,8,6,0
+user_1582,Group B,Mobile Hotspot,Shared/Public,179,84,61,3,1
+user_1583,Group A,High-Speed Home,Modern Personal,22,10,5,5,0
+user_1584,Group A,Standard Home,Modern Personal,49,5,9,5,0
+user_1585,Group A,High-Speed Home,Modern Personal,26,4,7,8,0
+user_1586,Group A,Standard Home,Modern Personal,79,3,3,5,0
+user_1587,Group A,Standard Home,Modern Personal,43,19,5,6,0
+user_1588,Group A,High-Speed Home,Modern Personal,39,8,6,4,0
+user_1589,Group A,Standard Home,Modern Personal,89,1,5,3,0
+user_1590,Group A,High-Speed Home,Modern Personal,35,1,4,3,0
+user_1591,Group A,Standard Home,Modern Personal,59,5,10,6,0
+user_1592,Group A,High-Speed Home,Modern Personal,22,18,5,4,0
+user_1593,Group A,Mobile Hotspot,Modern Personal,148,6,8,6,1
+user_1594,Group A,Standard Home,Modern Personal,88,19,8,10,0
+user_1595,Group B,Public Wi-Fi,Shared/Public,164,72,1,3,1
+user_1596,Group B,Mobile Hotspot,Shared/Public,125,104,56,8,1
+user_1597,Group A,High-Speed Home,Older Personal,31,25,9,3,0
+user_1598,Group B,Public Wi-Fi,Shared/Public,348,60,6,9,1
+user_1599,Group B,Public Wi-Fi,Shared/Public,400,117,59,9,1
+user_1600,Group B,Public Wi-Fi,Older Personal,313,55,14,8,1
+user_1601,Group B,Public Wi-Fi,Shared/Public,291,91,34,9,1
+user_1602,Group A,High-Speed Home,Modern Personal,40,1,3,4,0
+user_1603,Group B,Public Wi-Fi,Older Personal,302,58,22,3,1
+user_1604,Group A,Mobile Hotspot,Modern Personal,111,10,4,9,1
+user_1605,Group A,High-Speed Home,Modern Personal,23,9,3,4,0
+user_1606,Group A,Standard Home,Modern Personal,87,1,8,8,0
+user_1607,Group B,Public Wi-Fi,Older Personal,347,57,24,8,1
+user_1608,Group A,High-Speed Home,Shared/Public,22,87,65,5,1
+user_1609,Group B,Public Wi-Fi,Shared/Public,361,84,59,5,1
+user_1610,Group B,Public Wi-Fi,Shared/Public,116,113,58,11,1
+user_1611,Group B,Public Wi-Fi,Older Personal,213,62,27,2,1
+user_1612,Group B,Public Wi-Fi,Shared/Public,308,111,85,14,1
+user_1613,Group B,Public Wi-Fi,Shared/Public,324,119,49,11,1
+user_1614,Group A,Standard Home,Modern Personal,75,15,1,6,0
+user_1615,Group A,High-Speed Home,Modern Personal,49,2,6,6,0
+user_1616,Group A,High-Speed Home,Older Personal,44,26,30,3,0
+user_1617,Group A,High-Speed Home,Modern Personal,32,10,8,8,0
+user_1618,Group B,Mobile Hotspot,Older Personal,134,45,24,8,0
+user_1619,Group A,High-Speed Home,Modern Personal,33,19,5,6,0
+user_1620,Group A,Standard Home,Modern Personal,92,7,9,6,0
+user_1621,Group A,High-Speed Home,Older Personal,43,24,19,6,0
+user_1622,Group B,Mobile Hotspot,Older Personal,190,57,39,6,1
+user_1623,Group A,High-Speed Home,Modern Personal,5,20,9,8,0
+user_1624,Group A,Standard Home,Modern Personal,74,14,11,5,0
+user_1625,Group A,High-Speed Home,Modern Personal,50,15,5,5,0
+user_1626,Group B,Public Wi-Fi,Shared/Public,111,62,58,7,1
+user_1627,Group B,Mobile Hotspot,Older Personal,209,52,22,5,1
+user_1628,Group A,High-Speed Home,Modern Personal,18,15,6,4,0
+user_1629,Group A,High-Speed Home,Modern Personal,31,14,5,5,0
+user_1630,Group A,Mobile Hotspot,Modern Personal,192,12,3,4,1
+user_1631,Group B,Mobile Hotspot,Shared/Public,139,69,27,7,1
+user_1632,Group A,High-Speed Home,Modern Personal,45,13,6,3,1
+user_1633,Group B,Mobile Hotspot,Modern Personal,117,1,2,7,1
+user_1634,Group A,High-Speed Home,Modern Personal,29,11,5,4,1
+user_1635,Group A,High-Speed Home,Modern Personal,26,5,3,7,0
+user_1636,Group A,High-Speed Home,Older Personal,29,30,18,4,0
+user_1637,Group A,High-Speed Home,Older Personal,17,41,31,5,1
+user_1638,Group A,High-Speed Home,Modern Personal,35,1,11,7,0
+user_1639,Group A,Standard Home,Older Personal,73,24,16,5,0
+user_1640,Group B,Mobile Hotspot,Older Personal,136,55,28,4,1
+user_1641,Group A,High-Speed Home,Modern Personal,19,8,3,5,0
+user_1642,Group A,Standard Home,Modern Personal,109,6,2,4,1
+user_1643,Group A,High-Speed Home,Modern Personal,18,17,1,7,0
+user_1644,Group A,High-Speed Home,Modern Personal,31,10,7,4,0
+user_1645,Group B,Public Wi-Fi,Shared/Public,292,92,40,7,1
+user_1646,Group A,High-Speed Home,Modern Personal,21,20,5,4,0
+user_1647,Group A,Standard Home,Modern Personal,63,10,5,3,0
+user_1648,Group A,Standard Home,Older Personal,62,52,16,5,1
+user_1649,Group A,High-Speed Home,Modern Personal,15,7,7,6,0
+user_1650,Group A,High-Speed Home,Modern Personal,28,13,9,7,0
+user_1651,Group A,High-Speed Home,Modern Personal,25,2,9,11,1
+user_1652,Group B,Mobile Hotspot,Shared/Public,94,69,26,9,1
+user_1653,Group A,High-Speed Home,Older Personal,31,66,9,4,1
+user_1654,Group A,Standard Home,Older Personal,45,32,9,4,0
+user_1655,Group A,High-Speed Home,Older Personal,38,25,25,4,0
+user_1656,Group B,Public Wi-Fi,Older Personal,188,52,12,4,1
+user_1657,Group A,High-Speed Home,Older Personal,23,59,38,2,1
+user_1658,Group A,Standard Home,Shared/Public,66,95,43,4,1
+user_1659,Group A,Mobile Hotspot,Modern Personal,59,6,9,3,0
+user_1660,Group A,High-Speed Home,Modern Personal,34,1,6,3,0
+user_1661,Group A,Standard Home,Modern Personal,22,1,4,6,0
+user_1662,Group A,High-Speed Home,Modern Personal,27,6,12,4,0
+user_1663,Group A,Standard Home,Shared/Public,55,90,52,7,1
+user_1664,Group A,Standard Home,Older Personal,76,55,27,3,1
+user_1665,Group B,Public Wi-Fi,Shared/Public,307,65,59,11,1
+user_1666,Group B,Public Wi-Fi,Shared/Public,436,91,28,1,1
+user_1667,Group A,Standard Home,Modern Personal,78,5,10,5,0
+user_1668,Group A,High-Speed Home,Older Personal,28,35,21,3,0
+user_1669,Group A,Standard Home,Modern Personal,27,4,6,2,0
+user_1670,Group A,Standard Home,Modern Personal,69,13,7,1,0
+user_1671,Group A,Standard Home,Older Personal,58,50,29,2,1
+user_1672,Group A,Standard Home,Modern Personal,35,7,6,6,0
+user_1673,Group A,High-Speed Home,Older Personal,27,61,22,5,1
+user_1674,Group A,High-Speed Home,Modern Personal,23,7,9,7,0
+user_1675,Group A,Standard Home,Older Personal,67,62,23,9,1
+user_1676,Group A,Standard Home,Modern Personal,138,11,1,6,1
+user_1677,Group A,Standard Home,Modern Personal,95,11,6,6,0
+user_1678,Group B,Public Wi-Fi,Shared/Public,228,87,46,10,1
+user_1679,Group A,High-Speed Home,Modern Personal,32,20,4,2,0
+user_1680,Group A,Public Wi-Fi,Modern Personal,353,13,2,5,1
+user_1681,Group B,Standard Home,Older Personal,34,40,22,7,0
+user_1682,Group A,High-Speed Home,Older Personal,35,70,20,2,1
+user_1683,Group A,Standard Home,Modern Personal,69,15,9,7,0
+user_1684,Group B,Public Wi-Fi,Shared/Public,359,81,29,9,1
+user_1685,Group A,High-Speed Home,Modern Personal,30,12,6,1,1
+user_1686,Group A,High-Speed Home,Older Personal,33,37,14,5,0
+user_1687,Group B,Mobile Hotspot,Shared/Public,99,83,30,7,1
+user_1688,Group A,High-Speed Home,Modern Personal,32,4,5,9,0
+user_1689,Group A,Standard Home,Modern Personal,67,2,9,3,0
+user_1690,Group A,High-Speed Home,Modern Personal,33,1,12,5,0
+user_1691,Group A,High-Speed Home,Older Personal,15,25,11,5,0
+user_1692,Group B,Public Wi-Fi,Shared/Public,243,107,42,5,1
+user_1693,Group A,High-Speed Home,Modern Personal,31,14,5,4,0
+user_1694,Group B,Mobile Hotspot,Older Personal,122,33,8,12,1
+user_1695,Group A,Standard Home,Modern Personal,73,3,3,5,0
+user_1696,Group A,High-Speed Home,Older Personal,37,29,18,7,0
+user_1697,Group A,Standard Home,Modern Personal,74,21,7,5,1
+user_1698,Group A,Standard Home,Older Personal,114,35,25,6,1
+user_1699,Group A,High-Speed Home,Modern Personal,10,5,9,2,0
+user_1700,Group A,High-Speed Home,Older Personal,14,51,13,9,1
+user_1701,Group A,High-Speed Home,Modern Personal,14,11,7,7,0
+user_1702,Group A,Standard Home,Modern Personal,83,14,11,7,0
+user_1703,Group A,Standard Home,Shared/Public,82,89,40,4,1
+user_1704,Group A,High-Speed Home,Modern Personal,28,19,3,5,0
+user_1705,Group B,Mobile Hotspot,Shared/Public,157,91,42,11,1
+user_1706,Group B,Public Wi-Fi,Shared/Public,354,91,57,5,1
+user_1707,Group B,Standard Home,Shared/Public,69,106,40,6,1
+user_1708,Group B,Public Wi-Fi,Shared/Public,143,65,46,7,1
+user_1709,Group A,High-Speed Home,Modern Personal,9,1,6,5,1
+user_1710,Group A,High-Speed Home,Older Personal,49,30,9,2,0
+user_1711,Group A,Standard Home,Modern Personal,55,6,13,4,0
+user_1712,Group B,Mobile Hotspot,Shared/Public,195,99,38,4,1
+user_1713,Group A,High-Speed Home,Modern Personal,51,21,9,1,0
+user_1714,Group A,High-Speed Home,Modern Personal,36,13,4,8,0
+user_1715,Group A,Standard Home,Older Personal,40,71,26,2,1
+user_1716,Group B,Public Wi-Fi,Older Personal,220,59,13,7,1
+user_1717,Group A,Standard Home,Modern Personal,37,4,6,4,0
+user_1718,Group A,High-Speed Home,Modern Personal,32,16,3,3,0
+user_1719,Group A,High-Speed Home,Older Personal,35,30,24,6,1
+user_1720,Group B,Mobile Hotspot,Older Personal,177,43,16,8,0
+user_1721,Group A,High-Speed Home,Modern Personal,31,8,6,7,1
+user_1722,Group B,Mobile Hotspot,Shared/Public,159,73,37,9,1
+user_1723,Group A,High-Speed Home,Shared/Public,24,101,44,6,1
+user_1724,Group A,High-Speed Home,Modern Personal,30,16,8,4,0
+user_1725,Group A,Standard Home,Modern Personal,49,5,6,8,0
+user_1726,Group A,High-Speed Home,Older Personal,24,63,17,3,1
+user_1727,Group B,Public Wi-Fi,Shared/Public,236,93,49,9,1
+user_1728,Group B,Mobile Hotspot,Older Personal,155,67,25,8,1
+user_1729,Group B,Public Wi-Fi,Shared/Public,257,116,56,8,1
+user_1730,Group A,High-Speed Home,Older Personal,22,51,15,6,1
+user_1731,Group A,High-Speed Home,Modern Personal,37,8,8,1,0
+user_1732,Group A,High-Speed Home,Modern Personal,48,17,14,3,0
+user_1733,Group A,Mobile Hotspot,Modern Personal,164,1,6,3,1
+user_1734,Group B,Public Wi-Fi,Older Personal,363,56,17,4,1
+user_1735,Group A,High-Speed Home,Older Personal,6,24,16,7,0
+user_1736,Group B,Public Wi-Fi,Shared/Public,228,82,27,14,1
+user_1737,Group B,Public Wi-Fi,Shared/Public,293,111,39,3,1
+user_1738,Group B,Public Wi-Fi,Older Personal,213,60,22,7,1
+user_1739,Group A,High-Speed Home,Modern Personal,23,11,14,4,0
+user_1740,Group B,Public Wi-Fi,Older Personal,187,29,23,10,1
+user_1741,Group A,Standard Home,Older Personal,21,51,15,9,1
+user_1742,Group A,High-Speed Home,Older Personal,21,67,34,6,1
+user_1743,Group A,High-Speed Home,Older Personal,58,70,38,7,1
+user_1744,Group A,High-Speed Home,Modern Personal,19,19,6,5,0
+user_1745,Group A,High-Speed Home,Modern Personal,38,13,5,3,0
+user_1746,Group A,High-Speed Home,Modern Personal,16,12,8,2,0
+user_1747,Group B,Public Wi-Fi,Older Personal,171,55,9,5,1
+user_1748,Group A,Public Wi-Fi,Modern Personal,317,8,2,4,1
+user_1749,Group A,High-Speed Home,Modern Personal,30,6,3,5,0
+user_1750,Group A,Standard Home,Modern Personal,87,15,9,4,0
+user_1751,Group A,High-Speed Home,Older Personal,30,33,27,5,0
+user_1752,Group B,Public Wi-Fi,Shared/Public,227,110,61,7,1
+user_1753,Group A,High-Speed Home,Shared/Public,28,88,30,5,1
+user_1754,Group A,High-Speed Home,Older Personal,33,67,21,6,1
+user_1755,Group B,Public Wi-Fi,Older Personal,163,48,9,5,1
+user_1756,Group A,Standard Home,Modern Personal,68,19,8,4,0
+user_1757,Group A,High-Speed Home,Modern Personal,13,23,10,4,0
+user_1758,Group B,Public Wi-Fi,Older Personal,277,33,22,4,1
+user_1759,Group A,High-Speed Home,Modern Personal,41,13,1,5,0
+user_1760,Group B,Mobile Hotspot,Shared/Public,99,73,38,8,1
+user_1761,Group A,Standard Home,Modern Personal,71,14,6,5,0
+user_1762,Group B,Public Wi-Fi,Shared/Public,427,85,58,13,1
+user_1763,Group B,Mobile Hotspot,Older Personal,168,24,23,6,1
+user_1764,Group A,High-Speed Home,Modern Personal,32,22,8,8,0
+user_1765,Group A,Standard Home,Modern Personal,93,14,6,6,0
+user_1766,Group B,Public Wi-Fi,Shared/Public,231,104,35,6,0
+user_1767,Group A,High-Speed Home,Modern Personal,37,23,10,5,0
+user_1768,Group A,High-Speed Home,Modern Personal,36,13,8,9,0
+user_1769,Group A,High-Speed Home,Modern Personal,26,10,12,3,0
+user_1770,Group A,Standard Home,Modern Personal,62,22,4,6,0
+user_1771,Group B,Mobile Hotspot,Older Personal,129,55,11,6,1
+user_1772,Group A,High-Speed Home,Older Personal,17,65,9,7,1
+user_1773,Group B,Public Wi-Fi,Older Personal,285,71,20,8,1
+user_1774,Group A,High-Speed Home,Older Personal,15,24,34,3,1
+user_1775,Group A,High-Speed Home,Modern Personal,32,1,6,4,0
+user_1776,Group A,Standard Home,Shared/Public,114,94,46,7,1
+user_1777,Group A,Standard Home,Modern Personal,106,12,6,5,1
+user_1778,Group B,Mobile Hotspot,Shared/Public,137,101,37,6,1
+user_1779,Group A,Public Wi-Fi,Older Personal,223,36,13,5,1
+user_1780,Group B,Public Wi-Fi,Shared/Public,241,92,50,5,1
+user_1781,Group A,High-Speed Home,Modern Personal,35,13,12,4,0
+user_1782,Group A,High-Speed Home,Modern Personal,25,1,15,1,0
+user_1783,Group A,High-Speed Home,Modern Personal,37,10,5,6,0
+user_1784,Group A,Mobile Hotspot,Older Personal,128,34,12,4,1
+user_1785,Group A,Standard Home,Modern Personal,64,9,10,7,0
+user_1786,Group A,Standard Home,Shared/Public,57,97,41,3,1
+user_1787,Group B,Mobile Hotspot,Older Personal,229,40,19,5,0
+user_1788,Group A,High-Speed Home,Modern Personal,29,7,7,4,0
+user_1789,Group A,High-Speed Home,Older Personal,32,25,21,8,0
+user_1790,Group A,Standard Home,Modern Personal,90,4,8,3,0
+user_1791,Group A,Standard Home,Shared/Public,114,63,34,2,1
+user_1792,Group A,Standard Home,Modern Personal,47,3,7,6,0
+user_1793,Group A,Standard Home,Modern Personal,66,20,10,5,0
+user_1794,Group A,High-Speed Home,Modern Personal,32,14,3,3,0
+user_1795,Group A,High-Speed Home,Older Personal,44,54,17,6,1
+user_1796,Group A,Standard Home,Older Personal,41,65,23,2,1
+user_1797,Group B,Standard Home,Older Personal,43,35,27,12,0
+user_1798,Group B,Public Wi-Fi,Shared/Public,235,86,12,13,1
+user_1799,Group A,Mobile Hotspot,Modern Personal,160,14,5,8,1
+user_1800,Group A,High-Speed Home,Older Personal,22,44,33,3,1
+user_1801,Group A,High-Speed Home,Modern Personal,46,20,12,5,0
+user_1802,Group B,Public Wi-Fi,Shared/Public,224,68,31,9,1
+user_1803,Group A,Standard Home,Modern Personal,60,13,7,4,0
+user_1804,Group A,Standard Home,Modern Personal,32,4,8,4,0
+user_1805,Group A,Standard Home,Modern Personal,79,18,4,6,0
+user_1806,Group B,Public Wi-Fi,Shared/Public,193,74,58,6,1
+user_1807,Group A,High-Speed Home,Older Personal,54,46,8,4,0
+user_1808,Group A,High-Speed Home,Modern Personal,30,6,5,8,0
+user_1809,Group B,Public Wi-Fi,Older Personal,319,36,23,6,1
+user_1810,Group A,High-Speed Home,Modern Personal,32,20,6,4,0
+user_1811,Group A,High-Speed Home,Modern Personal,25,8,6,3,0
+user_1812,Group A,High-Speed Home,Shared/Public,5,74,21,1,1
+user_1813,Group B,Public Wi-Fi,Shared/Public,216,61,52,13,1
+user_1814,Group A,Standard Home,Modern Personal,73,15,9,5,0
+user_1815,Group A,High-Speed Home,Modern Personal,15,22,9,10,0
+user_1816,Group A,Standard Home,Modern Personal,82,2,4,5,0
+user_1817,Group A,Standard Home,Older Personal,57,70,13,2,1
+user_1818,Group B,Mobile Hotspot,Shared/Public,77,109,66,4,1
+user_1819,Group A,High-Speed Home,Modern Personal,33,14,5,4,0
+user_1820,Group A,High-Speed Home,Older Personal,36,50,15,3,1
+user_1821,Group A,High-Speed Home,Modern Personal,41,11,8,1,0
+user_1822,Group A,High-Speed Home,Modern Personal,33,1,7,6,0
+user_1823,Group A,Mobile Hotspot,Shared/Public,169,67,43,7,1
+user_1824,Group A,High-Speed Home,Older Personal,42,59,23,7,1
+user_1825,Group A,High-Speed Home,Modern Personal,40,13,9,7,0
+user_1826,Group B,Public Wi-Fi,Modern Personal,354,14,4,3,1
+user_1827,Group A,Standard Home,Modern Personal,78,6,6,7,1
+user_1828,Group A,High-Speed Home,Modern Personal,18,11,6,1,0
+user_1829,Group A,Standard Home,Older Personal,70,31,18,9,0
+user_1830,Group A,High-Speed Home,Modern Personal,19,18,5,6,0
+user_1831,Group A,High-Speed Home,Modern Personal,24,1,3,3,0
+user_1832,Group A,High-Speed Home,Modern Personal,26,9,10,3,1
+user_1833,Group A,High-Speed Home,Modern Personal,17,2,6,6,0
+user_1834,Group A,High-Speed Home,Modern Personal,20,1,6,10,0
+user_1835,Group A,High-Speed Home,Modern Personal,25,1,3,4,1
+user_1836,Group A,Public Wi-Fi,Modern Personal,195,17,8,8,0
+user_1837,Group A,High-Speed Home,Modern Personal,42,7,6,4,0
+user_1838,Group B,Mobile Hotspot,Older Personal,172,65,16,10,0
+user_1839,Group B,Public Wi-Fi,Shared/Public,253,108,37,3,1
+user_1840,Group A,High-Speed Home,Older Personal,28,60,12,4,1
+user_1841,Group B,Public Wi-Fi,Older Personal,314,52,22,9,1
+user_1842,Group A,Standard Home,Modern Personal,48,7,8,7,0
+user_1843,Group B,Public Wi-Fi,Shared/Public,288,95,35,3,1
+user_1844,Group A,High-Speed Home,Modern Personal,26,4,8,6,0
+user_1845,Group A,High-Speed Home,Older Personal,19,32,10,1,0
+user_1846,Group A,Mobile Hotspot,Older Personal,91,25,14,4,0
+user_1847,Group A,Mobile Hotspot,Modern Personal,187,23,7,2,1
+user_1848,Group B,High-Speed Home,Shared/Public,26,84,44,6,1
+user_1849,Group B,Public Wi-Fi,Older Personal,188,50,33,11,1
+user_1850,Group B,Public Wi-Fi,Shared/Public,168,60,46,6,1
+user_1851,Group A,Standard Home,Modern Personal,64,3,5,4,0
+user_1852,Group B,Public Wi-Fi,Shared/Public,308,104,52,3,1
+user_1853,Group A,High-Speed Home,Modern Personal,26,2,7,6,0
+user_1854,Group A,Standard Home,Shared/Public,52,115,52,6,1
+user_1855,Group A,High-Speed Home,Modern Personal,31,6,8,6,0
+user_1856,Group B,Mobile Hotspot,Shared/Public,245,117,45,7,1
+user_1857,Group B,Public Wi-Fi,Older Personal,392,60,21,6,1
+user_1858,Group A,High-Speed Home,Modern Personal,29,22,8,3,0
+user_1859,Group B,Public Wi-Fi,Shared/Public,282,74,55,7,1
+user_1860,Group A,Standard Home,Modern Personal,83,18,9,6,0
+user_1861,Group B,Mobile Hotspot,Shared/Public,106,87,39,10,1
+user_1862,Group B,Public Wi-Fi,Shared/Public,149,78,50,6,1
+user_1863,Group A,High-Speed Home,Modern Personal,17,13,3,4,0
+user_1864,Group A,Standard Home,Modern Personal,93,18,7,4,0
+user_1865,Group A,High-Speed Home,Modern Personal,19,22,8,2,0
+user_1866,Group A,High-Speed Home,Modern Personal,37,4,6,4,0
+user_1867,Group B,Mobile Hotspot,Shared/Public,165,118,33,4,1
+user_1868,Group A,Mobile Hotspot,Older Personal,158,56,17,6,1
+user_1869,Group B,Mobile Hotspot,Older Personal,157,55,6,10,1
+user_1870,Group A,High-Speed Home,Modern Personal,19,10,9,8,1
+user_1871,Group B,Mobile Hotspot,Shared/Public,93,117,29,5,1
+user_1872,Group A,High-Speed Home,Modern Personal,49,19,7,4,0
+user_1873,Group A,Standard Home,Modern Personal,32,17,9,4,0
+user_1874,Group A,Standard Home,Modern Personal,78,10,2,6,0
+user_1875,Group A,High-Speed Home,Modern Personal,14,21,5,5,0
+user_1876,Group A,High-Speed Home,Modern Personal,24,6,8,7,0
+user_1877,Group A,Standard Home,Modern Personal,72,15,10,10,0
+user_1878,Group B,Mobile Hotspot,Shared/Public,234,106,66,4,1
+user_1879,Group B,Mobile Hotspot,Older Personal,92,55,15,12,1
+user_1880,Group B,Mobile Hotspot,Older Personal,134,38,13,6,1
+user_1881,Group A,Standard Home,Older Personal,68,29,19,5,0
+user_1882,Group B,Public Wi-Fi,Older Personal,240,71,27,10,1
+user_1883,Group A,High-Speed Home,Older Personal,32,28,26,7,0
+user_1884,Group B,Mobile Hotspot,Shared/Public,91,75,23,5,1
+user_1885,Group B,Public Wi-Fi,Older Personal,258,45,33,7,1
+user_1886,Group B,Public Wi-Fi,Older Personal,337,48,17,8,1
+user_1887,Group B,Public Wi-Fi,Shared/Public,225,65,41,14,1
+user_1888,Group B,Public Wi-Fi,Shared/Public,99,90,41,8,1
+user_1889,Group A,Public Wi-Fi,Modern Personal,248,6,4,3,1
+user_1890,Group A,High-Speed Home,Shared/Public,13,87,30,6,1
+user_1891,Group A,High-Speed Home,Modern Personal,35,6,7,6,0
+user_1892,Group A,High-Speed Home,Modern Personal,22,5,9,5,0
+user_1893,Group A,High-Speed Home,Modern Personal,35,4,7,6,0
+user_1894,Group B,Mobile Hotspot,Older Personal,112,68,20,9,1
+user_1895,Group A,High-Speed Home,Modern Personal,37,20,1,4,0
+user_1896,Group A,High-Speed Home,Modern Personal,25,2,9,5,0
+user_1897,Group A,High-Speed Home,Modern Personal,35,18,2,3,0
+user_1898,Group A,Standard Home,Modern Personal,66,7,1,5,0
+user_1899,Group B,Mobile Hotspot,Older Personal,88,67,22,4,1
+user_1900,Group A,High-Speed Home,Modern Personal,35,4,7,4,0
+user_1901,Group A,High-Speed Home,Older Personal,37,27,17,8,0
+user_1902,Group A,Public Wi-Fi,Older Personal,346,44,28,4,1
+user_1903,Group A,Standard Home,Modern Personal,84,22,6,3,0
+user_1904,Group A,Standard Home,Modern Personal,49,21,5,5,0
+user_1905,Group B,Public Wi-Fi,Older Personal,240,40,10,6,1
+user_1906,Group B,Public Wi-Fi,Older Personal,319,58,17,9,1
+user_1907,Group A,High-Speed Home,Modern Personal,17,16,9,3,0
+user_1908,Group A,High-Speed Home,Modern Personal,35,13,7,3,0
+user_1909,Group A,High-Speed Home,Modern Personal,28,20,9,8,0
+user_1910,Group A,High-Speed Home,Modern Personal,43,22,9,6,0
+user_1911,Group A,Public Wi-Fi,Modern Personal,413,17,9,9,1
+user_1912,Group A,Standard Home,Older Personal,61,32,24,8,0
+user_1913,Group A,Standard Home,Modern Personal,73,7,5,2,0
+user_1914,Group A,High-Speed Home,Modern Personal,20,1,6,1,0
+user_1915,Group A,High-Speed Home,Modern Personal,28,12,5,4,0
+user_1916,Group A,High-Speed Home,Shared/Public,46,87,56,4,1
+user_1917,Group A,High-Speed Home,Shared/Public,27,81,41,5,1
+user_1918,Group A,High-Speed Home,Older Personal,44,33,14,2,1
+user_1919,Group A,Mobile Hotspot,Older Personal,182,44,19,3,1
+user_1920,Group A,High-Speed Home,Modern Personal,27,16,9,7,0
+user_1921,Group B,Mobile Hotspot,Older Personal,184,38,13,8,1
+user_1922,Group A,Mobile Hotspot,Modern Personal,162,17,10,5,1
+user_1923,Group A,High-Speed Home,Shared/Public,32,114,41,8,1
+user_1924,Group A,Standard Home,Modern Personal,39,3,5,8,0
+user_1925,Group B,Standard Home,Older Personal,86,44,21,3,0
+user_1926,Group B,Public Wi-Fi,Older Personal,193,52,11,6,1
+user_1927,Group B,Mobile Hotspot,Shared/Public,100,91,27,5,1
+user_1928,Group B,Public Wi-Fi,Older Personal,231,34,20,5,1
+user_1929,Group B,Public Wi-Fi,Shared/Public,229,73,66,11,1
+user_1930,Group A,Standard Home,Shared/Public,113,98,42,1,0
+user_1931,Group A,Standard Home,Modern Personal,103,10,8,5,1
+user_1932,Group B,Mobile Hotspot,Shared/Public,178,67,34,9,1
+user_1933,Group A,High-Speed Home,Modern Personal,38,19,3,4,0
+user_1934,Group A,Standard Home,Modern Personal,90,13,8,5,0
+user_1935,Group A,Standard Home,Older Personal,45,50,7,13,1
+user_1936,Group A,High-Speed Home,Modern Personal,38,16,5,4,0
+user_1937,Group A,Standard Home,Older Personal,82,66,34,5,1
+user_1938,Group B,Public Wi-Fi,Shared/Public,233,63,63,7,1
+user_1939,Group A,High-Speed Home,Modern Personal,38,8,7,7,0
+user_1940,Group A,Standard Home,Modern Personal,62,19,6,7,0
+user_1941,Group A,High-Speed Home,Modern Personal,25,20,4,6,0
+user_1942,Group B,Public Wi-Fi,Shared/Public,223,63,23,8,1
+user_1943,Group A,High-Speed Home,Modern Personal,30,6,7,3,1
+user_1944,Group B,Mobile Hotspot,Shared/Public,177,89,60,9,1
+user_1945,Group A,High-Speed Home,Modern Personal,39,3,10,7,0
+user_1946,Group A,High-Speed Home,Older Personal,12,45,18,5,0
+user_1947,Group A,Standard Home,Modern Personal,83,18,11,5,0
+user_1948,Group A,Standard Home,Modern Personal,66,22,6,3,0
+user_1949,Group B,Mobile Hotspot,Older Personal,160,55,13,4,1
+user_1950,Group B,Mobile Hotspot,Older Personal,158,31,15,9,1
+user_1951,Group A,High-Speed Home,Older Personal,38,33,26,3,1
+user_1952,Group A,High-Speed Home,Modern Personal,26,10,6,9,0
+user_1953,Group A,Standard Home,Modern Personal,63,7,4,2,0
+user_1954,Group B,Public Wi-Fi,Older Personal,17,51,31,5,1
+user_1955,Group B,Public Wi-Fi,Older Personal,438,43,17,11,1
+user_1956,Group A,High-Speed Home,Modern Personal,40,3,6,1,0
+user_1957,Group A,High-Speed Home,Modern Personal,54,10,7,5,0
+user_1958,Group B,Mobile Hotspot,Older Personal,146,28,24,7,1
+user_1959,Group B,Public Wi-Fi,Older Personal,251,57,25,2,1
+user_1960,Group B,Public Wi-Fi,Shared/Public,285,109,27,9,1
+user_1961,Group A,Standard Home,Modern Personal,75,23,5,4,0
+user_1962,Group A,High-Speed Home,Older Personal,27,70,20,5,1
+user_1963,Group A,High-Speed Home,Modern Personal,49,14,7,5,0
+user_1964,Group A,High-Speed Home,Modern Personal,41,13,9,3,0
+user_1965,Group A,Standard Home,Modern Personal,124,21,7,9,1
+user_1966,Group B,Mobile Hotspot,Shared/Public,132,114,43,6,1
+user_1967,Group A,High-Speed Home,Modern Personal,49,1,5,5,0
+user_1968,Group A,High-Speed Home,Modern Personal,13,7,8,5,0
+user_1969,Group A,High-Speed Home,Shared/Public,24,107,54,4,0
+user_1970,Group A,High-Speed Home,Modern Personal,23,19,8,1,0
+user_1971,Group A,High-Speed Home,Modern Personal,19,23,11,13,1
+user_1972,Group A,High-Speed Home,Modern Personal,42,10,9,7,0
+user_1973,Group A,High-Speed Home,Modern Personal,31,15,6,5,0
+user_1974,Group B,High-Speed Home,Shared/Public,49,114,59,5,1
+user_1975,Group A,High-Speed Home,Modern Personal,25,11,5,5,0
+user_1976,Group B,Public Wi-Fi,Older Personal,378,27,26,5,1
+user_1977,Group A,Standard Home,Modern Personal,50,13,8,6,0
+user_1978,Group A,Standard Home,Modern Personal,91,20,9,2,0
+user_1979,Group A,High-Speed Home,Older Personal,37,60,23,4,1
+user_1980,Group A,High-Speed Home,Modern Personal,32,17,8,3,0
+user_1981,Group A,High-Speed Home,Shared/Public,45,80,55,8,1
+user_1982,Group A,High-Speed Home,Modern Personal,24,19,6,6,0
+user_1983,Group B,Mobile Hotspot,Shared/Public,150,103,52,11,1
+user_1984,Group B,Public Wi-Fi,Shared/Public,92,110,47,9,1
+user_1985,Group A,High-Speed Home,Modern Personal,48,16,5,6,1
+user_1986,Group A,High-Speed Home,Modern Personal,21,10,9,7,0
+user_1987,Group B,Mobile Hotspot,Shared/Public,109,96,48,7,1
+user_1988,Group A,Public Wi-Fi,Modern Personal,278,17,9,5,1
+user_1989,Group A,Standard Home,Modern Personal,49,16,8,3,0
+user_1990,Group A,Standard Home,Modern Personal,64,8,13,6,0
+user_1991,Group A,High-Speed Home,Shared/Public,29,93,49,4,1
+user_1992,Group B,Public Wi-Fi,Shared/Public,203,73,44,8,1
+user_1993,Group B,Public Wi-Fi,Modern Personal,224,9,10,3,0
+user_1994,Group A,High-Speed Home,Modern Personal,29,10,11,2,1
+user_1995,Group A,High-Speed Home,Older Personal,27,24,31,3,1
+user_1996,Group A,High-Speed Home,Modern Personal,25,2,9,5,0
+user_1997,Group B,Public Wi-Fi,Shared/Public,246,72,36,3,1
+user_1998,Group A,High-Speed Home,Modern Personal,35,8,10,5,0
+user_1999,Group A,High-Speed Home,Older Personal,38,49,13,4,1
+user_2000,Group B,Mobile Hotspot,Shared/Public,189,66,56,11,1
