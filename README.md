@@ -21,25 +21,15 @@ This project aims to demonstrate how algorithmic bias can inadvertently lead to 
 
 To run this project, please follow these steps:
 
-### 1. Clone the Repository (if applicable)
-git clone <repository_url>
-```Recommended name for the directory folder is: AI_Bias_Security_Demo```
+### 1. Clone the Repository 
+Recommended name for the directory folder is: AI_Bias_Security_Demo
 
 
 ### 2. Set up Python Environment
-```It's recommended to use a virtual environment.```
-
-python -m venv venv
-
-# On Windows
-.\venv\Scripts\activate
-
-# On macOS/Linux
-source venv/bin/activate
-
+It's recommended to use a virtual environment.
 
 ### 3. Install Dependencies
-pip install pandas numpy scikit-learn matplotlib seaborn
+`pip install pandas numpy scikit-learn matplotlib seaborn`
 
 
 ### 4. Configure Paths (Optional, if not using default structure)
@@ -49,24 +39,24 @@ If you need to change data or model locations, modify this file.
 ### 5. Run the Scripts in the following order
 
 #### a. Generate Synthetic Data
-python generate_data.py
+`python generate_data.py`
 
-```This will create `synthetic_security_data.csv` in the project directory.```
+This will create `synthetic_security_data.csv` in the project directory.
 
 #### b. Train the Security Model
-python train_model.py
+`python train_model.py`
 
-```This will train a Logistic Regression model and save it as `security_model.joblib`.```
+This will train a Logistic Regression model and save it as `security_model.joblib`.
 
 #### c. Analyze Model Bias
-python analyze_bias.py
+`python analyze_bias.py`
 
-```This will print detailed bias analysis metrics to the console.```
+This will print detailed bias analysis metrics to the console.
 
 #### d. Visualize Bias
-python visualize_bias.py
+`python visualize_bias.py`
 
-```This will generate `predicted_fail_rate_by_group.png` and `confusion_matrices_by_group.png` in the `plots/` directory.```
+This will generate `predicted_fail_rate_by_group.png` and `confusion_matrices_by_group.png` in the `plots/` directory.
 
 ## Project Structure
 
