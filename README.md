@@ -61,15 +61,27 @@ This will generate `predicted_fail_rate_by_group.png` and `confusion_matrices_by
 ## Project Structure
 
 AI_Bias_Security_Demo/
+
 ├── config.py
+
 ├── generate_data.py
+
 ├── train_model.py
+
 ├── analyze_bias.py
+
 ├── visualize_bias.py
+
 ├── README.md
+
 ├── PROGRESS.md
+
 ├── synthetic_security_data.csv (generated after running generate_data.py)
+
 ├── security_model.joblib (generated after running train_model.py)
+
 └── plots/
+    
     ├── predicted_fail_rate_by_group.png (generated after running visualize_bias.py)
+    
     └── confusion_matrices_by_group.png (generated after running visualize_bias.py)
