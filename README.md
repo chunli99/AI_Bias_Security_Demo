@@ -1,5 +1,5 @@
 ## AI Bias in Cybersecurity: Suspicious User Detection Demo
-## By Jasmione Sutton
+## By Jasmine Sutton
 
 ## Project Goal
 This project aims to demonstrate how algorithmic bias can inadvertently lead to unfair or discriminatory outcomes in cybersecurity systems, specifically in a simulated "suspicious user detection" model. We will illustrate how bias introduced in training data (reflecting socioeconomic disparities) can cause a model to disproportionately flag certain user groups as suspicious, even when their actual risk profiles are similar to others.
